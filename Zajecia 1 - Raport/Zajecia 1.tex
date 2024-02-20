@@ -1,0 +1,286 @@
+\documentclass{beamer}
+\usetheme{Berlin}
+\usecolortheme{beaver}
+
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+
+\title{Analiza danych wtórnych – \newline
+ Zajęcia 1: Jak pisać dobre raporty?}
+\author{Jakub Rybacki}
+\begin{document}
+\begin{frame}[plain]
+    \maketitle
+\end{frame}
+
+\section{Organizacyjne}
+\begin{frame}{Informacje}
+	Kontakt:
+	\begin{itemize}
+		\item \href{mailto:jakub.rybacki@uw.edu.pl}{jakub.rybacki@uw.edu.pl}
+		\item Repozytorium dla materiałów: \href{https://github.com/jakubrybacki/PsychUW_Data}{\beamergotobutton{Link}} 
+		\item Dyżur - w zależności od potrzeb. Prośba o kontakt mailowy. 
+	\end{itemize}
+	\vspace{2mm}	
+	Zasady zaliczenia:
+	\begin{itemize}
+	\item Limit nieobecności - standardowe zasady UW
+	\item Praca w trójkach - czwórkach 
+	\item Projekt końcowy:
+		\begin{enumerate}
+			\item Część dane wtórne: krótki raport + prezentacja
+			\item Część Big Data: prezentacja - wykorzystanie Power Query
+		\end{enumerate}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Raport}
+	Wytyczne:
+	\begin{itemize}
+		\item Krótka objętość 4-5 stron.  
+		\item Przykładowe tematy wraz z listą przydatnych raportów w osobnym pliku. 
+		\item Cel badania konsumenckie - np: 
+		\begin{itemize}
+			\item Czy piłka nożna będzie zmierzać w stronę Superligi? 
+			\item Jak rozwija się rynek produktów luksusowych w 2023 r.?
+			\item Jakie zmiany będą czekać rynek VoD w Polsce?
+		\end{itemize}		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Jak pisać raporty - dobre i złe praktyki}
+	\centering
+	Wszystko co tu będziemy omawiać ma charakter subiektywny.
+	
+	\vspace{5 mm}
+	Uznajemy to za porady.
+	
+	\vspace{5 mm}
+	Przykłady dotyczyć będą badań ekonomicznych - to mój rynek.
+\end{frame}
+
+\section{Treść}
+\begin{frame}{Najczęstsze problemy}
+	\begin{columns}[t]
+		\column{0.5\textwidth}
+		\centering
+		Ściana tekstu:
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/CA_MacroMapa.jpg}
+		\tiny
+		Źródło: \href{https://static.credit-agricole.pl/asset/m/a/k/makromapa-20220214_22757.pdf}{Credit Agricole}  
+		
+		\column{0.5\textwidth}
+		\centering
+		Nadmiar myśli + żargon:
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/ING_Natlok.jpg}	
+		\tiny
+		Źródło: ING Bank Śląski
+	\end{columns}
+\end{frame}
+
+\begin{frame}{Dobre praktyki}
+	\begin{columns}[t]
+		\column{0.5\textwidth}
+		Tytuł - 1 linijka		
+		\\
+		\vspace{5mm}
+		Paragrafy:
+		\begin{enumerate} 
+			\item Objętość: Najlepiej 3-5 linijek tekstu.
+			\item Pierwsza linijka zdradza przesłanie paragrafu (pogrubiona).
+			\item Związek logiczny między kolejnymi rozpoczęciami
+			\item Pogrubione fragmenty dają pełny obraz raportu
+		\end{enumerate}		
+	
+		\column{0.5\textwidth}
+		\centering
+		Konstrukcja raportu:
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/PIE_raport.jpg}
+		\tiny
+		Źródło: \href{https://pie.net.pl/wp-content/uploads/2021/12/PIE-Przeglad_gospodarczy_2-2021.pdf}{Polski Instytut Ekonomiczny}  
+	\end{columns}
+\end{frame}
+
+\begin{frame}{Dobre praktyki - cd.}
+	\begin{columns}[t]
+		\column{0.5\textwidth}
+		Kluczowe liczby:
+		\begin{itemize}
+			\item Ułatw odbiorcy dotarcie do głównych myśli
+			\item Ty decydujesz co przeczyta.
+			\item Sekcja kluczowych liczb może zaczynać raport.
+		\end{itemize}		
+		\vspace{5mm}
+
+		Pytanie: Które informacje są najważniejsze dla sekcji raportu?
+
+		\column{0.5\textwidth}
+		
+		\centering
+		Przykład - kluczowe myśli
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/ING_Think.jpg}
+		\tiny
+		Źródło: \href{https://think.ing.com/bundles/ing-monthly-the-masks-and-the-gloves-are-coming-off-economics/}{ING Think}  
+	\end{columns}
+\end{frame}
+
+\begin{frame}{Najczęściej czytane elementy raportów}
+	\begin{enumerate}
+		\item Komunikat prasowy
+		\begin{itemize}
+			\item Zwykle sporządza biuro prasowe - bez wiedzy eksperckiej.
+			\item Zaniedbanie - uderza w czytelnictwo
+		\end{itemize}
+		
+		\vspace{5mm}
+		\item Synteza (ang. \emph{Executive Summary})
+		\begin{itemize}
+			\item Pełna kontrola autora.
+			\item Mało liczb.
+		\end{itemize}
+		
+		\vspace{5mm}
+		\item Wykresy / Tabele
+		\begin{itemize}
+			\item Uwaga na tytuł wykresu.
+			\item Cel: Treść sama się objaśnia. 
+		\end{itemize}			
+	\end{enumerate}
+\end{frame}
+
+\section{Styl}
+\begin{frame}{Problem - zamiłowanie do retoryki}
+	Krótki film dla zobrazowania: \href{https://www.youtube.com/watch?v=MJLCcQPgye0}{\beamergotobutton{Link}}
+	
+	\vspace{5mm}
+	Raporty analityczne:
+	\begin{itemize}	
+		\item Waszym klientem jest Stefan (ten 2-gi z filmu)!
+		\item Stefan ceni prosty i informatywny język
+		\item Cel: Raport ma być przyjemny, nawet następnego dnia po imprezie. 
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Język biznesowy inny niż akademicki}
+	\begin{enumerate}
+		\item Strona czynna - forma aktywna:
+			\begin{itemize}
+				\item TAK: Rząd wprowadził błędne reformy.
+				\item NIE: Wprowadzono błędne reformy. 
+			\end{itemize}
+		\vspace{5mm}
+		\item Formułowanie opinii:
+			\begin{itemize}
+				\item Tekst biznesowy - główna wartość.
+				\item Tekst akademicki - niepożądane.
+			\end{itemize}	
+		
+		\vspace{5mm}
+		\item Punkty wspólne, które najczęściej się edytuje:
+			\begin{itemize}
+				\item Konstrukcje gramatyczne ala mistrz Yoda. 
+				\item Powtórzenia
+				\item Styl: unikamy przeczeń.
+		\end{itemize}	
+		
+	\end{enumerate}	
+
+\end{frame}
+
+\section{Wykresy}
+\begin{frame}{Problem - Nieczytelne wykresy}
+	\begin{columns}[t]
+		\column{0.5\textwidth}
+		Najczęstsze mankamenty:
+		\begin{itemize}
+			\item Hermetyczne nazewnictwo (prawa strona)
+			\item Niejasne związki między seriami.
+			\item Dużo niepotrzebnych informacji np. powtarzane daty
+		\end{itemize}		
+
+		\column{0.5\textwidth}
+		\centering
+		Niefortunny wykres
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/Millenium_Wykres.jpg}
+		\tiny
+		Źródło: \href{https://www.bankmillennium.pl/documents/10184/29721383/Makro_i_Rynek_2022.pdf/}{Bank Millenium}  
+	\end{columns}
+\end{frame}
+
+\begin{frame}{Problem - Nieczytelne wykresy}
+	\begin{columns}[t]
+		\column{0.5\textwidth}
+		\centering
+		Słabo
+		\includegraphics[keepaspectratio, width=0.5\paperwidth]{./Wykresy/NBP_WIBOR3M.jpg}
+		\tiny
+		Źródło: \href{https://www.nbp.pl/publikacje/materialy_i_studia/ms337.pdf}{NBP}  
+		
+		\column{0.5\textwidth}
+		\centering
+		Dobrze
+		\includegraphics[keepaspectratio, width=0.4\paperwidth]{./Wykresy/CeNEA_WIBOR3M.jpg}
+		\tiny
+		Źródło: \href{https://twitter.com/MichalMyck/status/1494312342984826890?s=20&t=NXvtdJQDxmTJo1QYSe-EhQ}{@MichalMyck}  
+	\end{columns}
+\end{frame}
+
+
+\begin{frame}{Trudne tematy - Ważna jest strategia!}
+	Za ładnym formatowaniem wykresów można ukryć mankamenty merytoryczne!
+	\vspace{5mm}
+	
+	Ciekawe praktyki - dla chwili rozluźnienia:
+	\begin{enumerate}
+		\item Incydent? \href{https://www.youtube.com/watch?v=0OvL0eBS-GQ}{\beamergotobutton{Link}}
+		\item Nie sądze!
+		\href{https://www.youtube.com/watch?v=MVpddez7DLA}{\beamergotobutton{Link}}
+	\end{enumerate}
+	
+\end{frame}
+
+
+\section{Prezentacja wyników}
+\begin{frame}{Dashboard}
+	Kiedyś analizy bazowały na notatkach. 
+	\vspace{5mm}	
+	Dzisiaj świat jest dużo bogatszy!
+	\vspace{5mm}
+	
+	Dane przedstawiane są w formie interaktywnej: 
+	\href{	https://www.bruegel.org/dataset/national-policies-shield-consumers-rising-energy-prices}{\beamergotobutton{Link}}
+\end{frame}
+
+\begin{frame}{Social Media}
+	Ważna zasada pracy w korporacji - czyń swoją pracę widoczną.
+
+	\vspace{5mm}	 
+	Zasięg / twórczość Social media pomaga w tym. To też zasób podczas rekrutacji. 
+	
+	\vspace{5mm}	
+	Kanały:
+	\begin{enumerate}
+		\item Twitter - komunikacja z dziennikarzami. 
+		\item LinkedIn 
+	\end{enumerate}
+	
+\end{frame}
+
+
+\section{Word}
+\begin{frame}{Umiejętności techniczne:}
+	
+	\begin{enumerate}
+		\item Formatowanie stylu: \href{	https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563
+		}{\beamergotobutton{Link}} 
+		\item Dynamiczne tytułowanie wykresów: \href{https://support.microsoft.com/en-us/office/add-format-or-delete-captions-in-word-82fa82a4-f0f3-438f-a422-34bb5cef9c81}{\beamergotobutton{Link}}
+		\item Tryb śledzenia zmian: \href{https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a}{\beamergotobutton{Link}}
+		\item Wtyczka Mendeley Cite. 
+	\end{enumerate}
+	\vspace{5mm}
+			
+\end{frame}
+
+
+\end{document}
+
