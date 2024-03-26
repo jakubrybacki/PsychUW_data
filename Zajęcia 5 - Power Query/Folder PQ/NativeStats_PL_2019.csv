@@ -1,0 +1,381 @@
+period,odds,score,matchID,odds_home,odds_draw,odds_away,score_home,score_away,home_name,home_short,away_name,away_short
+09.08.19 ,1.13 / 9.47 / 19.11,4:1,8509,1.13,9.47,19.11,4,1,Liverpool,LIV ,Norwich,NOR 
+10.08.19 ,11.02 / 6.45 / 1.26,0:5,8510,11.02,6.45,1.26,0,5,West Ham,WHU ,Man City,MCI 
+10.08.19 ,1.97 / 3.57 / 3.95,1:1,8514,1.97,3.57,3.95,1,1,Bournemouth,BOU ,Sheffield Utd,SHE 
+10.08.19 ,2.07 / 3.25 / 4.02,0:3,8513,2.07,3.25,4.02,0,3,Watford,WAT ,Brighton Hove,BHA 
+10.08.19 ,3.39 / 3.36 / 2.22,0:0,8512,3.39,3.36,2.22,0,0,Crystal Palace,CRY ,Everton,EVE 
+10.08.19 ,2.65 / 3.17 / 2.87,3:0,8511,2.65,3.17,2.87,3,0,Burnley,BUR ,Southampton,SOU 
+10.08.19 ,1.36 / 5.30 / 8.68,3:1,8515,1.36,5.30,8.68,3,1,Tottenham,TOT ,Aston Villa,AST 
+11.08.19 ,3.36 / 3.50 / 2.19,0:1,1082,3.36,3.50,2.19,0,1,Newcastle,NEW ,Arsenal,ARS 
+11.08.19 ,2.40 / 3.13 / 3.28,0:0,8516,2.40,3.13,3.28,0,0,Leicester City,LEI ,Wolverhampton,WOL 
+11.08.19 ,2.04 / 3.35 / 3.99,4:0,8517,2.04,3.35,3.99,4,0,Man United,MUN ,Chelsea,CHE 
+17.08.19 ,1.35 / 5.26 / 8.79,2:1,8518,1.35,5.26,8.79,2,1,Arsenal,ARS ,Burnley,BUR 
+17.08.19 ,2.25 / 3.61 / 3.11,1:2,8519,2.25,3.61,3.11,1,2,Aston Villa,AST ,Bournemouth,BOU 
+17.08.19 ,2.21 / 3.44 / 3.34,1:1,8523,2.21,3.44,3.34,1,1,Brighton Hove,BHA ,West Ham,WHU 
+17.08.19 ,6.49 / 4.54 / 1.49,1:2,8522,6.49,4.54,1.49,1,2,Southampton,SOU ,Liverpool,LIV 
+17.08.19 ,2.14 / 3.42 / 3.55,3:1,8521,2.14,3.42,3.55,3,1,Norwich,NOR ,Newcastle,NEW 
+17.08.19 ,1.82 / 3.68 / 4.56,1:0,8520,1.82,3.68,4.56,1,0,Everton,EVE ,Watford,WAT 
+17.08.19 ,1.36 / 5.46 / 8.14,2:2,8524,1.36,5.46,8.14,2,2,Man City,MCI ,Tottenham,TOT 
+18.08.19 ,2.50 / 3.23 / 3.00,1:0,8525,2.50,3.23,3.00,1,0,Sheffield Utd,SHE ,Crystal Palace,CRY 
+18.08.19 ,1.72 / 3.83 / 5.00,1:1,8526,1.72,3.83,5.00,1,1,Chelsea,CHE ,Leicester City,LEI 
+19.08.19 ,3.00 / 3.28 / 2.47,1:1,8527,3.00,3.28,2.47,1,1,Wolverhampton,WOL ,Man United,MUN 
+23.08.19 ,3.01 / 3.39 / 2.41,2:0,8528,3.01,3.39,2.41,2,0,Aston Villa,AST ,Everton,EVE 
+24.08.19 ,4.17 / 3.87 / 1.84,2:3,8529,4.17,3.87,1.84,2,3,Norwich,NOR ,Chelsea,CHE 
+24.08.19 ,2.35 / 3.27 / 3.23,0:2,8532,2.35,3.27,3.23,0,2,Brighton Hove,BHA ,Southampton,SOU 
+24.08.19 ,3.23 / 3.26 / 2.34,1:2,8531,3.23,3.26,2.34,1,2,Sheffield Utd,SHE ,Leicester City,LEI 
+24.08.19 ,1.34 / 5.27 / 9.29,1:2,8530,1.34,5.27,9.29,1,2,Man United,MUN ,Crystal Palace,CRY 
+24.08.19 ,2.19 / 3.51 / 3.31,1:3,8533,2.19,3.51,3.31,1,3,Watford,WAT ,West Ham,WHU 
+24.08.19 ,1.47 / 4.95 / 6.31,3:1,8534,1.47,4.95,6.31,3,1,Liverpool,LIV ,Arsenal,ARS 
+25.08.19 ,16.25 / 8.37 / 1.16,1:3,8535,16.25,8.37,1.16,1,3,Bournemouth,BOU ,Man City,MCI 
+25.08.19 ,1.78 / 3.46 / 5.21,1:1,8536,1.78,3.46,5.21,1,1,Wolverhampton,WOL ,Burnley,BUR 
+25.08.19 ,1.28 / 5.98 / 10.85,0:1,8537,1.28,5.98,10.85,0,1,Tottenham,TOT ,Newcastle,NEW 
+31.08.19 ,4.05 / 3.51 / 1.96,1:1,8538,4.05,3.51,1.96,1,1,Southampton,SOU ,Man United,MUN 
+31.08.19 ,1.09 / 11.30 / 30.14,4:0,8539,1.09,11.30,30.14,4,0,Man City,MCI ,Brighton Hove,BHA 
+31.08.19 ,1.40 / 4.75 / 8.17,2:2,8541,1.40,4.75,8.17,2,2,Chelsea,CHE ,Sheffield Utd,SHE 
+31.08.19 ,2.52 / 3.18 / 3.01,1:1,8540,2.52,3.18,3.01,1,1,Newcastle,NEW ,Watford,WAT 
+31.08.19 ,2.26 / 3.39 / 3.27,1:0,8544,2.26,3.39,3.27,1,0,Crystal Palace,CRY ,Aston Villa,AST 
+31.08.19 ,1.89 / 4.00 / 3.80,2:0,8543,1.89,4.00,3.80,2,0,West Ham,WHU ,Norwich,NOR 
+31.08.19 ,1.67 / 4.01 / 5.13,3:1,8542,1.67,4.01,5.13,3,1,Leicester City,LEI ,Bournemouth,BOU 
+31.08.19 ,8.75 / 5.38 / 1.34,0:3,8545,8.75,5.38,1.34,0,3,Burnley,BUR ,Liverpool,LIV 
+01.09.19 ,2.07 / 3.25 / 3.99,3:2,8546,2.07,3.25,3.99,3,2,Everton,EVE ,Wolverhampton,WOL 
+01.09.19 ,2.57 / 3.61 / 2.65,2:2,8547,2.57,3.61,2.65,2,2,Arsenal,ARS ,Tottenham,TOT 
+14.09.19 ,1.20 / 7.27 / 14.32,3:1,8548,1.20,7.27,14.32,3,1,Liverpool,LIV ,Newcastle,NEW 
+14.09.19 ,2.12 / 3.35 / 3.70,1:0,2292,2.12,3.35,3.70,1,0,Man United,MUN ,Leicester City,LEI 
+14.09.19 ,3.03 / 3.39 / 2.39,2:5,8549,3.03,3.39,2.39,2,5,Wolverhampton,WOL ,Chelsea,CHE 
+14.09.19 ,2.12 / 3.37 / 3.62,1:1,8552,2.12,3.37,3.62,1,1,Brighton Hove,BHA ,Burnley,BUR 
+14.09.19 ,1.41 / 4.91 / 7.65,4:0,8550,1.41,4.91,7.65,4,0,Tottenham,TOT ,Crystal Palace,CRY 
+14.09.19 ,2.46 / 3.24 / 3.03,0:1,8551,2.46,3.24,3.03,0,1,Sheffield Utd,SHE ,Southampton,SOU 
+14.09.19 ,25.36 / 11.74 / 1.09,3:2,8553,25.36,11.74,1.09,3,2,Norwich,NOR ,Man City,MCI 
+15.09.19 ,3.31 / 3.49 / 2.20,3:1,8554,3.31,3.49,2.20,3,1,Bournemouth,BOU ,Everton,EVE 
+15.09.19 ,4.07 / 3.86 / 1.86,2:2,8555,4.07,3.86,1.86,2,2,Watford,WAT ,Arsenal,ARS 
+16.09.19 ,2.60 / 3.56 / 2.63,0:0,8556,2.60,3.56,2.63,0,0,Aston Villa,AST ,West Ham,WHU 
+20.09.19 ,2.04 / 3.64 / 3.55,1:3,8557,2.04,3.64,3.55,1,3,Southampton,SOU ,Bournemouth,BOU 
+21.09.19 ,3.04 / 3.47 / 2.32,2:1,8558,3.04,3.47,2.32,2,1,Leicester City,LEI ,Tottenham,TOT 
+21.09.19 ,1.96 / 3.78 / 3.68,2:0,8561,1.96,3.78,3.68,2,0,Burnley,BUR ,Norwich,NOR 
+21.09.19 ,1.11 / 10.08 / 22.13,8:0,8559,1.11,10.08,22.13,8,0,Man City,MCI ,Watford,WAT 
+21.09.19 ,1.67 / 3.78 / 5.47,0:2,8560,1.67,3.78,5.47,0,2,Everton,EVE ,Sheffield Utd,SHE 
+21.09.19 ,2.51 / 3.18 / 3.00,0:0,8562,2.51,3.18,3.00,0,0,Newcastle,NEW ,Brighton Hove,BHA 
+22.09.19 ,3.45 / 3.69 / 2.06,2:0,8563,3.45,3.69,2.06,2,0,West Ham,WHU ,Man United,MUN 
+22.09.19 ,2.84 / 3.11 / 2.68,1:1,8564,2.84,3.11,2.68,1,1,Crystal Palace,CRY ,Wolverhampton,WOL 
+22.09.19 ,1.38 / 5.07 / 7.91,3:2,8565,1.38,5.07,7.91,3,2,Arsenal,ARS ,Aston Villa,AST 
+22.09.19 ,3.61 / 3.69 / 2.01,1:2,8566,3.61,3.69,2.01,1,2,Chelsea,CHE ,Liverpool,LIV 
+28.09.19 ,9.26 / 5.22 / 1.32,0:1,8567,9.26,5.22,1.32,0,1,Sheffield Utd,SHE ,Liverpool,LIV 
+28.09.19 ,2.26 / 3.42 / 3.13,2:2,8569,2.26,3.42,3.13,2,2,Aston Villa,AST ,Burnley,BUR 
+28.09.19 ,2.05 / 3.35 / 3.73,2:0,8568,2.05,3.35,3.73,2,0,Wolverhampton,WOL ,Watford,WAT 
+28.09.19 ,1.43 / 4.56 / 7.44,2:0,8570,1.43,4.56,7.44,2,0,Chelsea,CHE ,Brighton Hove,BHA 
+28.09.19 ,1.38 / 4.87 / 7.94,2:1,8571,1.38,4.87,7.94,2,1,Tottenham,TOT ,Southampton,SOU 
+28.09.19 ,2.02 / 3.60 / 3.54,2:0,8572,2.02,3.60,3.54,2,0,Crystal Palace,CRY ,Norwich,NOR 
+28.09.19 ,2.36 / 3.63 / 2.81,2:2,8573,2.36,3.63,2.81,2,2,Bournemouth,BOU ,West Ham,WHU 
+28.09.19 ,8.42 / 5.25 / 1.34,1:3,8574,8.42,5.25,1.34,1,3,Everton,EVE ,Man City,MCI 
+29.09.19 ,1.57 / 3.87 / 6.20,5:0,8575,1.57,3.87,6.20,5,0,Leicester City,LEI ,Newcastle,NEW 
+30.09.19 ,2.17 / 3.60 / 3.15,1:1,8576,2.17,3.60,3.15,1,1,Man United,MUN ,Arsenal,ARS 
+05.10.19 ,4.29 / 3.80 / 1.83,3:0,8577,4.29,3.80,1.83,3,0,Brighton Hove,BHA ,Tottenham,TOT 
+05.10.19 ,2.14 / 3.38 / 3.57,0:0,8581,2.14,3.38,3.57,0,0,Watford,WAT ,Sheffield Utd,SHE 
+05.10.19 ,2.92 / 3.30 / 2.52,1:0,8580,2.92,3.30,2.52,1,0,Burnley,BUR ,Everton,EVE 
+05.10.19 ,1.48 / 4.60 / 6.54,2:1,8578,1.48,4.60,6.54,2,1,Liverpool,LIV ,Leicester City,LEI 
+05.10.19 ,2.44 / 3.58 / 2.82,1:5,8579,2.44,3.58,2.82,1,5,Norwich,NOR ,Aston Villa,AST 
+05.10.19 ,2.00 / 3.57 / 3.79,1:2,8582,2.00,3.57,3.79,1,2,West Ham,WHU ,Crystal Palace,CRY 
+06.10.19 ,4.03 / 3.90 / 1.85,1:4,8585,4.03,3.90,1.85,1,4,Southampton,SOU ,Chelsea,CHE 
+06.10.19 ,1.44 / 4.98 / 6.69,1:0,8584,1.44,4.98,6.69,1,0,Arsenal,ARS ,Bournemouth,BOU 
+06.10.19 ,1.13 / 9.17 / 21.56,0:2,8583,1.13,9.17,21.56,0,2,Man City,MCI ,Wolverhampton,WOL 
+06.10.19 ,4.45 / 3.46 / 1.89,1:0,8586,4.45,3.46,1.89,1,0,Newcastle,NEW ,Man United,MUN 
+19.10.19 ,1.97 / 3.72 / 3.63,2:0,8587,1.97,3.72,3.63,2,0,Everton,EVE ,West Ham,WHU 
+19.10.19 ,1.95 / 3.43 / 4.04,1:1,8588,1.95,3.43,4.04,1,1,Wolverhampton,WOL ,Southampton,SOU 
+19.10.19 ,2.34 / 3.37 / 3.04,2:1,8589,2.34,3.37,3.04,2,1,Aston Villa,AST ,Brighton Hove,BHA 
+19.10.19 ,1.31 / 5.44 / 9.48,1:0,8590,1.31,5.44,9.48,1,0,Chelsea,CHE ,Newcastle,NEW 
+19.10.19 ,1.35 / 5.19 / 8.41,1:1,8591,1.35,5.19,8.41,1,1,Tottenham,TOT ,Watford,WAT 
+19.10.19 ,1.52 / 4.29 / 6.20,2:1,8592,1.52,4.29,6.20,2,1,Leicester City,LEI ,Burnley,BUR 
+19.10.19 ,1.81 / 4.15 / 3.88,0:0,8593,1.81,4.15,3.88,0,0,Bournemouth,BOU ,Norwich,NOR 
+19.10.19 ,12.79 / 6.79 / 1.21,0:2,935,12.79,6.79,1.21,0,2,Crystal Palace,CRY ,Man City,MCI 
+20.10.19 ,3.83 / 3.78 / 1.90,1:1,8594,3.83,3.78,1.90,1,1,Man United,MUN ,Liverpool,LIV 
+21.10.19 ,4.07 / 3.79 / 1.85,1:0,8595,4.07,3.79,1.85,1,0,Sheffield Utd,SHE ,Arsenal,ARS 
+25.10.19 ,3.29 / 3.48 / 2.17,0:9,8596,3.29,3.48,2.17,0,9,Southampton,SOU ,Leicester City,LEI 
+26.10.19 ,1.09 / 10.82 / 24.89,3:0,8597,1.09,10.82,24.89,3,0,Man City,MCI ,Aston Villa,AST 
+26.10.19 ,2.21 / 3.64 / 3.06,0:0,8600,2.21,3.64,3.06,0,0,Watford,WAT ,Bournemouth,BOU 
+26.10.19 ,2.66 / 3.30 / 2.67,3:2,8599,2.66,3.30,2.67,3,2,Brighton Hove,BHA ,Everton,EVE 
+26.10.19 ,2.02 / 3.49 / 3.68,1:1,8598,2.02,3.49,3.68,1,1,West Ham,WHU ,Sheffield Utd,SHE 
+26.10.19 ,4.36 / 3.94 / 1.76,2:4,8601,4.36,3.94,1.76,2,4,Burnley,BUR ,Chelsea,CHE 
+27.10.19 ,3.06 / 3.13 / 2.46,1:1,8602,3.06,3.13,2.46,1,1,Newcastle,NEW ,Wolverhampton,WOL 
+27.10.19 ,1.45 / 4.72 / 6.48,2:1,8603,1.45,4.72,6.48,2,1,Liverpool,LIV ,Tottenham,TOT 
+27.10.19 ,1.45 / 4.74 / 6.44,2:2,8604,1.45,4.74,6.44,2,2,Arsenal,ARS ,Crystal Palace,CRY 
+27.10.19 ,4.21 / 3.96 / 1.78,1:3,8605,4.21,3.96,1.78,1,3,Norwich,NOR ,Man United,MUN 
+02.11.19 ,2.96 / 3.48 / 2.33,1:0,8606,2.96,3.48,2.33,1,0,Bournemouth,BOU ,Man United,MUN 
+02.11.19 ,1.89 / 3.63 / 3.99,2:3,6104,1.89,3.63,3.99,2,3,West Ham,WHU ,Newcastle,NEW 
+02.11.19 ,1.82 / 3.88 / 4.05,2:0,8607,1.82,3.88,4.05,2,0,Brighton Hove,BHA ,Norwich,NOR 
+02.11.19 ,2.22 / 3.26 / 3.35,3:0,8611,2.22,3.26,3.35,3,0,Sheffield Utd,SHE ,Burnley,BUR 
+02.11.19 ,1.64 / 4.09 / 4.97,1:1,8610,1.64,4.09,4.97,1,1,Arsenal,ARS ,Wolverhampton,WOL 
+02.11.19 ,1.12 / 9.27 / 20.46,2:1,8609,1.12,9.27,20.46,2,1,Man City,MCI ,Southampton,SOU 
+02.11.19 ,7.43 / 4.94 / 1.39,1:2,8608,7.43,4.94,1.39,1,2,Aston Villa,AST ,Liverpool,LIV 
+02.11.19 ,4.59 / 4.09 / 1.69,1:2,8612,4.59,4.09,1.69,1,2,Watford,WAT ,Chelsea,CHE 
+03.11.19 ,3.46 / 3.39 / 2.12,0:2,8613,3.46,3.39,2.12,0,2,Crystal Palace,CRY ,Leicester City,LEI 
+03.11.19 ,2.85 / 3.44 / 2.42,1:1,7910,2.85,3.44,2.42,1,1,Everton,EVE ,Tottenham,TOT 
+08.11.19 ,2.49 / 3.59 / 2.70,0:2,8614,2.49,3.59,2.70,0,2,Norwich,NOR ,Watford,WAT 
+09.11.19 ,1.35 / 5.24 / 8.40,2:0,8615,1.35,5.24,8.40,2,0,Chelsea,CHE ,Crystal Palace,CRY 
+09.11.19 ,1.50 / 4.45 / 6.23,1:1,1201,1.50,4.45,6.23,1,1,Tottenham,TOT ,Sheffield Utd,SHE 
+09.11.19 ,2.76 / 3.44 / 2.51,1:2,8617,2.76,3.44,2.51,1,2,Southampton,SOU ,Everton,EVE 
+09.11.19 ,2.58 / 3.31 / 2.75,2:1,8616,2.58,3.31,2.75,2,1,Newcastle,NEW ,Bournemouth,BOU 
+09.11.19 ,2.37 / 3.49 / 2.92,3:0,1360,2.37,3.49,2.92,3,0,Burnley,BUR ,West Ham,WHU 
+09.11.19 ,2.37 / 3.61 / 2.83,2:0,8618,2.37,3.61,2.83,2,0,Leicester City,LEI ,Arsenal,ARS 
+10.11.19 ,1.88 / 3.57 / 4.17,2:1,8619,1.88,3.57,4.17,2,1,Wolverhampton,WOL ,Aston Villa,AST 
+10.11.19 ,1.55 / 3.97 / 6.46,3:1,8620,1.55,3.97,6.46,3,1,Man United,MUN ,Brighton Hove,BHA 
+10.11.19 ,2.55 / 3.40 / 2.63,3:1,8621,2.55,3.40,2.63,3,1,Liverpool,LIV ,Man City,MCI 
+23.11.19 ,3.13 / 3.57 / 2.15,2:3,8622,3.13,3.57,2.15,2,3,West Ham,WHU ,Tottenham,TOT 
+23.11.19 ,2.14 / 3.42 / 3.29,0:3,8627,2.14,3.42,3.29,0,3,Watford,WAT ,Burnley,BUR 
+23.11.19 ,1.47 / 4.48 / 6.00,2:2,8623,1.47,4.48,6.00,2,2,Arsenal,ARS ,Southampton,SOU 
+23.11.19 ,1.52 / 4.31 / 5.69,0:2,8624,1.52,4.31,5.69,0,2,Everton,EVE ,Norwich,NOR 
+23.11.19 ,6.92 / 4.71 / 1.41,1:2,8625,6.92,4.71,1.41,1,2,Crystal Palace,CRY ,Liverpool,LIV 
+23.11.19 ,2.60 / 3.28 / 2.66,1:2,8628,2.60,3.28,2.66,1,2,Bournemouth,BOU ,Wolverhampton,WOL 
+23.11.19 ,3.37 / 3.44 / 2.09,0:2,8626,3.37,3.44,2.09,0,2,Brighton Hove,BHA ,Leicester City,LEI 
+23.11.19 ,1.32 / 5.28 / 8.53,2:1,1924,1.32,5.28,8.53,2,1,Man City,MCI ,Chelsea,CHE 
+24.11.19 ,3.35 / 3.31 / 2.15,3:3,8629,3.35,3.31,2.15,3,3,Sheffield Utd,SHE ,Man United,MUN 
+25.11.19 ,2.08 / 3.42 / 3.41,2:0,8630,2.08,3.42,3.41,2,0,Aston Villa,AST ,Newcastle,NEW 
+30.11.19 ,13.12 / 6.88 / 1.19,2:2,8631,13.12,6.88,1.19,2,2,Newcastle,NEW ,Man City,MCI 
+30.11.19 ,1.21 / 6.31 / 12.18,2:1,8632,1.21,6.31,12.18,2,1,Liverpool,LIV ,Brighton Hove,BHA 
+30.11.19 ,1.38 / 4.88 / 7.22,0:1,8633,1.38,4.88,7.22,0,1,Chelsea,CHE ,West Ham,WHU 
+30.11.19 ,1.51 / 4.49 / 5.60,3:2,8634,1.51,4.49,5.60,3,2,Tottenham,TOT ,Bournemouth,BOU 
+30.11.19 ,2.23 / 3.25 / 3.24,0:2,8635,2.23,3.25,3.24,0,2,Burnley,BUR ,Crystal Palace,CRY 
+30.11.19 ,2.17 / 3.41 / 3.22,2:1,8636,2.17,3.41,3.22,2,1,Southampton,SOU ,Watford,WAT 
+01.12.19 ,4.38 / 4.03 / 1.70,2:2,8638,4.38,4.03,1.70,2,2,Norwich,NOR ,Arsenal,ARS 
+01.12.19 ,2.04 / 3.30 / 3.71,1:1,8637,2.04,3.30,3.71,1,1,Wolverhampton,WOL ,Sheffield Utd,SHE 
+01.12.19 ,1.42 / 4.59 / 7.05,2:2,2263,1.42,4.59,7.05,2,2,Man United,MUN ,Aston Villa,AST 
+01.12.19 ,1.79 / 3.70 / 4.22,2:1,8639,1.79,3.70,4.22,2,1,Leicester City,LEI ,Everton,EVE 
+03.12.19 ,2.18 / 3.37 / 3.31,1:0,8640,2.18,3.37,3.31,1,0,Crystal Palace,CRY ,Bournemouth,BOU 
+03.12.19 ,12.86 / 6.16 / 1.22,1:4,8641,12.86,6.16,1.22,1,4,Burnley,BUR ,Man City,MCI 
+04.12.19 ,2.57 / 3.42 / 2.64,2:1,8643,2.57,3.42,2.64,2,1,Man United,MUN ,Tottenham,TOT 
+04.12.19 ,1.72 / 4.04 / 4.37,2:1,8646,1.72,4.04,4.37,2,1,Southampton,SOU ,Norwich,NOR 
+04.12.19 ,1.28 / 5.83 / 10.03,2:1,8645,1.28,5.83,10.03,2,1,Chelsea,CHE ,Aston Villa,AST 
+04.12.19 ,1.36 / 4.88 / 8.56,2:0,8644,1.36,4.88,8.56,2,0,Leicester City,LEI ,Watford,WAT 
+04.12.19 ,1.84 / 3.31 / 4.37,2:0,8642,1.84,3.31,4.37,2,0,Wolverhampton,WOL ,West Ham,WHU 
+04.12.19 ,1.34 / 5.10 / 8.79,5:2,8647,1.34,5.10,8.79,5,2,Liverpool,LIV ,Everton,EVE 
+05.12.19 ,1.97 / 3.25 / 4.08,0:2,8648,1.97,3.25,4.08,0,2,Sheffield Utd,SHE ,Newcastle,NEW 
+05.12.19 ,1.54 / 4.33 / 5.39,1:2,8649,1.54,4.33,5.39,1,2,Arsenal,ARS ,Brighton Hove,BHA 
+07.12.19 ,3.40 / 3.72 / 2.04,3:1,8650,3.40,3.72,2.04,3,1,Everton,EVE ,Chelsea,CHE 
+07.12.19 ,6.78 / 4.83 / 1.43,0:3,8653,6.78,4.83,1.43,0,3,Bournemouth,BOU ,Liverpool,LIV 
+07.12.19 ,1.41 / 4.85 / 7.48,5:0,8651,1.41,4.85,7.48,5,0,Tottenham,TOT ,Burnley,BUR 
+07.12.19 ,2.44 / 3.31 / 2.94,0:0,8652,2.44,3.31,2.94,0,0,Watford,WAT ,Crystal Palace,CRY 
+07.12.19 ,1.37 / 5.75 / 8.60,1:2,8654,1.37,5.75,8.60,1,2,Man City,MCI ,Man United,MUN 
+08.12.19 ,2.87 / 3.45 / 2.41,1:2,8657,2.87,3.45,2.41,1,2,Norwich,NOR ,Sheffield Utd,SHE 
+08.12.19 ,2.69 / 3.26 / 2.67,2:1,8656,2.69,3.26,2.67,2,1,Newcastle,NEW ,Southampton,SOU 
+08.12.19 ,4.29 / 3.94 / 1.78,1:4,8655,4.29,3.94,1.78,1,4,Aston Villa,AST ,Leicester City,LEI 
+08.12.19 ,2.66 / 3.15 / 2.78,2:2,6117,2.66,3.15,2.78,2,2,Brighton Hove,BHA ,Wolverhampton,WOL 
+09.12.19 ,3.70 / 4.11 / 1.85,1:3,8658,3.70,4.11,1.85,1,3,West Ham,WHU ,Arsenal,ARS 
+14.12.19 ,1.22 / 6.68 / 12.33,2:0,8659,1.22,6.68,12.33,2,0,Liverpool,LIV ,Watford,WAT 
+14.12.19 ,1.95 / 3.62 / 3.81,2:0,8661,1.95,3.62,3.81,2,0,Sheffield Utd,SHE ,Aston Villa,AST 
+14.12.19 ,1.30 / 5.71 / 9.22,0:1,8660,1.30,5.71,9.22,0,1,Chelsea,CHE ,Bournemouth,BOU 
+14.12.19 ,2.02 / 3.43 / 3.77,1:0,8663,2.02,3.43,3.77,1,0,Burnley,BUR ,Newcastle,NEW 
+14.12.19 ,1.25 / 6.20 / 11.10,1:1,8662,1.25,6.20,11.10,1,1,Leicester City,LEI ,Norwich,NOR 
+14.12.19 ,1.91 / 3.81 / 3.78,0:1,8664,1.91,3.81,3.78,0,1,Southampton,SOU ,West Ham,WHU 
+15.12.19 ,1.75 / 3.72 / 4.72,1:1,8666,1.75,3.72,4.72,1,1,Man United,MUN ,Everton,EVE 
+15.12.19 ,3.13 / 3.44 / 2.26,1:2,8665,3.13,3.44,2.26,1,2,Wolverhampton,WOL ,Tottenham,TOT 
+15.12.19 ,5.35 / 4.77 / 1.52,0:3,8667,5.35,4.77,1.52,0,3,Arsenal,ARS ,Man City,MCI 
+16.12.19 ,2.31 / 3.20 / 3.20,1:1,8668,2.31,3.20,3.20,1,1,Crystal Palace,CRY ,Brighton Hove,BHA 
+21.12.19 ,2.55 / 3.62 / 2.58,0:0,8669,2.55,3.62,2.58,0,0,Everton,EVE ,Arsenal,ARS 
+21.12.19 ,2.47 / 3.13 / 3.00,1:0,8671,2.47,3.13,3.00,1,0,Newcastle,NEW ,Crystal Palace,CRY 
+21.12.19 ,2.21 / 3.46 / 3.15,0:1,8674,2.21,3.46,3.15,0,1,Bournemouth,BOU ,Burnley,BUR 
+21.12.19 ,2.30 / 3.21 / 3.21,0:1,8673,2.30,3.21,3.21,0,1,Brighton Hove,BHA ,Sheffield Utd,SHE 
+21.12.19 ,3.59 / 3.65 / 1.98,1:2,8672,3.59,3.65,1.98,1,2,Norwich,NOR ,Wolverhampton,WOL 
+21.12.19 ,2.32 / 3.57 / 2.88,1:3,8670,2.32,3.57,2.88,1,3,Aston Villa,AST ,Southampton,SOU 
+21.12.19 ,1.47 / 4.67 / 6.17,3:1,8675,1.47,4.67,6.17,3,1,Man City,MCI ,Leicester City,LEI 
+22.12.19 ,4.06 / 3.76 / 1.84,2:0,8676,4.06,3.76,1.84,2,0,Watford,WAT ,Man United,MUN 
+22.12.19 ,2.31 / 3.66 / 2.84,0:2,8677,2.31,3.66,2.84,0,2,Tottenham,TOT ,Chelsea,CHE 
+26.12.19 ,1.41 / 4.72 / 7.12,2:1,8678,1.41,4.72,7.12,2,1,Tottenham,TOT ,Brighton Hove,BHA 
+26.12.19 ,1.32 / 5.30 / 8.62,0:2,8680,1.32,5.30,8.62,0,2,Chelsea,CHE ,Southampton,SOU 
+26.12.19 ,3.64 / 3.95 / 1.88,1:1,8684,3.64,3.95,1.88,1,1,Bournemouth,BOU ,Arsenal,ARS 
+26.12.19 ,2.07 / 3.54 / 3.42,2:1,8683,2.07,3.54,3.42,2,1,Crystal Palace,CRY ,West Ham,WHU 
+26.12.19 ,1.91 / 3.38 / 4.15,1:1,8682,1.91,3.38,4.15,1,1,Sheffield Utd,SHE ,Watford,WAT 
+26.12.19 ,1.68 / 3.87 / 4.88,1:0,8681,1.68,3.87,4.88,1,0,Everton,EVE ,Burnley,BUR 
+26.12.19 ,1.97 / 3.85 / 3.46,1:0,8679,1.97,3.85,3.46,1,0,Aston Villa,AST ,Norwich,NOR 
+26.12.19 ,1.40 / 4.72 / 7.54,4:1,8685,1.40,4.72,7.54,4,1,Man United,MUN ,Newcastle,NEW 
+26.12.19 ,3.12 / 3.57 / 2.19,0:4,8686,3.12,3.57,2.19,0,4,Leicester City,LEI ,Liverpool,LIV 
+27.12.19 ,7.51 / 4.76 / 1.39,3:2,8687,7.51,4.76,1.39,3,2,Wolverhampton,WOL ,Man City,MCI 
+28.12.19 ,2.05 / 3.48 / 3.58,2:0,8688,2.05,3.48,3.58,2,0,Brighton Hove,BHA ,Bournemouth,BOU 
+28.12.19 ,2.17 / 3.37 / 3.41,3:0,8690,2.17,3.37,3.41,3,0,Watford,WAT ,Aston Villa,AST 
+28.12.19 ,2.45 / 3.32 / 2.91,1:1,2306,2.45,3.32,2.91,1,1,Southampton,SOU ,Crystal Palace,CRY 
+28.12.19 ,2.67 / 3.37 / 2.63,1:2,8689,2.67,3.37,2.63,1,2,Newcastle,NEW ,Everton,EVE 
+28.12.19 ,5.13 / 4.59 / 1.60,2:2,8691,5.13,4.59,1.60,2,2,Norwich,NOR ,Tottenham,TOT 
+28.12.19 ,3.90 / 3.85 / 1.87,1:2,8692,3.90,3.85,1.87,1,2,West Ham,WHU ,Leicester City,LEI 
+28.12.19 ,3.68 / 3.42 / 2.04,0:2,8693,3.68,3.42,2.04,0,2,Burnley,BUR ,Man United,MUN 
+29.12.19 ,2.81 / 3.54 / 2.35,1:2,2322,2.81,3.54,2.35,1,2,Arsenal,ARS ,Chelsea,CHE 
+29.12.19 ,1.24 / 6.03 / 10.33,1:0,8694,1.24,6.03,10.33,1,0,Liverpool,LIV ,Wolverhampton,WOL 
+29.12.19 ,1.12 / 7.82 / 15.75,2:0,8695,1.12,7.82,15.75,2,0,Man City,MCI ,Sheffield Utd,SHE 
+01.01.20 ,1.85 / 3.76 / 4.22,1:2,8696,1.85,3.76,4.22,1,2,Burnley,BUR ,Aston Villa,AST 
+01.01.20 ,3.83 / 3.82 / 1.92,1:1,8697,3.83,3.82,1.92,1,1,Brighton Hove,BHA ,Chelsea,CHE 
+01.01.20 ,3.27 / 3.39 / 2.26,2:1,8700,3.27,3.39,2.26,2,1,Watford,WAT ,Wolverhampton,WOL 
+01.01.20 ,5.63 / 4.30 / 1.58,0:3,8698,5.63,4.30,1.58,0,3,Newcastle,NEW ,Leicester City,LEI 
+01.01.20 ,3.32 / 3.71 / 2.12,1:0,8699,3.32,3.71,2.12,1,0,Southampton,SOU ,Tottenham,TOT 
+01.01.20 ,1.98 / 3.73 / 3.73,4:0,8703,1.98,3.73,3.73,4,0,West Ham,WHU ,Bournemouth,BOU 
+01.01.20 ,2.35 / 3.37 / 3.10,1:1,8702,2.35,3.37,3.10,1,1,Norwich,NOR ,Crystal Palace,CRY 
+01.01.20 ,1.28 / 6.27 / 10.12,2:1,8701,1.28,6.27,10.12,2,1,Man City,MCI ,Everton,EVE 
+01.01.20 ,2.73 / 3.61 / 2.49,2:0,8704,2.73,3.61,2.49,2,0,Arsenal,ARS ,Man United,MUN 
+02.01.20 ,1.28 / 5.69 / 11.57,2:0,8705,1.28,5.69,11.57,2,0,Liverpool,LIV ,Sheffield Utd,SHE 
+10.01.20 ,1.89 / 3.54 / 4.13,1:0,8706,1.89,3.54,4.13,1,0,Sheffield Utd,SHE ,West Ham,WHU 
+11.01.20 ,3.58 / 3.69 / 1.98,1:1,8707,3.58,3.69,1.98,1,1,Crystal Palace,CRY ,Arsenal,ARS 
+11.01.20 ,1.53 / 4.26 / 5.93,1:2,8712,1.53,4.26,5.93,1,2,Leicester City,LEI ,Southampton,SOU 
+11.01.20 ,1.52 / 4.10 / 6.48,1:1,8708,1.52,4.10,6.48,1,1,Wolverhampton,WOL ,Newcastle,NEW 
+11.01.20 ,1.32 / 5.19 / 9.50,3:0,8709,1.32,5.19,9.50,3,0,Chelsea,CHE ,Burnley,BUR 
+11.01.20 ,1.82 / 3.69 / 4.25,1:0,8710,1.82,3.69,4.25,1,0,Everton,EVE ,Brighton Hove,BHA 
+11.01.20 ,1.28 / 5.74 / 10.28,4:0,8711,1.28,5.74,10.28,4,0,Man United,MUN ,Norwich,NOR 
+11.01.20 ,3.53 / 3.83 / 1.96,0:1,8713,3.53,3.83,1.96,0,1,Tottenham,TOT ,Liverpool,LIV 
+12.01.20 ,2.45 / 3.40 / 2.81,0:3,8714,2.45,3.40,2.81,0,3,Bournemouth,BOU ,Watford,WAT 
+12.01.20 ,11.39 / 7.00 / 1.21,1:6,8715,11.39,7.00,1.21,1,6,Aston Villa,AST ,Man City,MCI 
+18.01.20 ,3.43 / 3.52 / 2.06,0:0,8716,3.43,3.52,2.06,0,0,Watford,WAT ,Tottenham,TOT 
+18.01.20 ,1.13 / 8.55 / 16.76,2:2,934,1.13,8.55,16.76,2,2,Man City,MCI ,Crystal Palace,CRY 
+18.01.20 ,1.70 / 3.82 / 4.68,1:1,8717,1.70,3.82,4.68,1,1,Arsenal,ARS ,Sheffield Utd,SHE 
+18.01.20 ,2.28 / 3.54 / 2.94,1:0,8718,2.28,3.54,2.94,1,0,Norwich,NOR ,Bournemouth,BOU 
+18.01.20 ,2.74 / 3.43 / 2.46,1:1,8719,2.74,3.43,2.46,1,1,West Ham,WHU ,Everton,EVE 
+18.01.20 ,2.63 / 3.31 / 2.62,2:3,8720,2.63,3.31,2.62,2,3,Southampton,SOU ,Wolverhampton,WOL 
+18.01.20 ,1.74 / 3.95 / 4.25,1:1,8721,1.74,3.95,4.25,1,1,Brighton Hove,BHA ,Aston Villa,AST 
+18.01.20 ,5.33 / 4.31 / 1.55,1:0,8722,5.33,4.31,1.55,1,0,Newcastle,NEW ,Chelsea,CHE 
+19.01.20 ,4.68 / 3.85 / 1.69,2:1,8723,4.68,3.85,1.69,2,1,Burnley,BUR ,Leicester City,LEI 
+19.01.20 ,1.44 / 4.61 / 6.47,2:0,8724,1.44,4.61,6.47,2,0,Liverpool,LIV ,Man United,MUN 
+21.01.20 ,2.59 / 3.52 / 2.61,2:1,8725,2.59,3.52,2.61,2,1,Aston Villa,AST ,Watford,WAT 
+21.01.20 ,2.65 / 3.25 / 2.73,0:2,2305,2.65,3.25,2.73,0,2,Crystal Palace,CRY ,Southampton,SOU 
+21.01.20 ,2.66 / 3.44 / 2.59,3:1,8728,2.66,3.44,2.59,3,1,Bournemouth,BOU ,Brighton Hove,BHA 
+21.01.20 ,7.88 / 4.87 / 1.38,0:1,8727,7.88,4.87,1.38,0,1,Sheffield Utd,SHE ,Man City,MCI 
+21.01.20 ,1.49 / 4.36 / 6.61,2:2,8726,1.49,4.36,6.61,2,2,Everton,EVE ,Newcastle,NEW 
+21.01.20 ,1.73 / 3.93 / 4.54,2:2,2321,1.73,3.93,4.54,2,2,Chelsea,CHE ,Arsenal,ARS 
+22.01.20 ,1.54 / 4.26 / 5.45,4:1,8729,1.54,4.26,5.45,4,1,Leicester City,LEI ,West Ham,WHU 
+22.01.20 ,1.35 / 5.11 / 7.78,2:1,8730,1.35,5.11,7.78,2,1,Tottenham,TOT ,Norwich,NOR 
+22.01.20 ,1.36 / 4.88 / 8.29,0:2,8731,1.36,4.88,8.29,0,2,Man United,MUN ,Burnley,BUR 
+23.01.20 ,5.37 / 4.01 / 1.59,1:2,8732,5.37,4.01,1.59,1,2,Wolverhampton,WOL ,Liverpool,LIV 
+29.01.20 ,8.13 / 5.28 / 1.36,0:2,8733,8.13,5.28,1.36,0,2,West Ham,WHU ,Liverpool,LIV 
+01.02.20 ,2.66 / 3.66 / 2.43,2:2,8734,2.66,3.66,2.43,2,2,Leicester City,LEI ,Chelsea,CHE 
+01.02.20 ,2.31 / 3.33 / 3.08,0:0,8736,2.31,3.33,3.08,0,0,Newcastle,NEW ,Norwich,NOR 
+01.02.20 ,2.39 / 3.41 / 2.88,3:3,8737,2.39,3.41,2.88,3,3,West Ham,WHU ,Brighton Hove,BHA 
+01.02.20 ,1.26 / 5.90 / 10.53,4:0,8735,1.26,5.90,10.53,4,0,Liverpool,LIV ,Southampton,SOU 
+01.02.20 ,2.12 / 3.61 / 3.22,2:1,8740,2.12,3.61,3.22,2,1,Bournemouth,BOU ,Aston Villa,AST 
+01.02.20 ,2.85 / 3.29 / 2.47,2:3,8739,2.85,3.29,2.47,2,3,Watford,WAT ,Everton,EVE 
+01.02.20 ,2.98 / 3.08 / 2.50,0:1,8738,2.98,3.08,2.50,0,1,Crystal Palace,CRY ,Sheffield Utd,SHE 
+01.02.20 ,1.79 / 3.55 / 4.54,0:0,8741,1.79,3.55,4.54,0,0,Man United,MUN ,Wolverhampton,WOL 
+02.02.20 ,3.36 / 3.37 / 2.15,0:0,8742,3.36,3.37,2.15,0,0,Burnley,BUR ,Arsenal,ARS 
+02.02.20 ,5.36 / 4.53 / 1.53,2:0,8743,5.36,4.53,1.53,2,0,Tottenham,TOT ,Man City,MCI 
+08.02.20 ,1.59 / 3.85 / 5.76,3:1,8744,1.59,3.85,5.76,3,1,Everton,EVE ,Crystal Palace,CRY 
+08.02.20 ,1.99 / 3.48 / 3.67,1:1,8745,1.99,3.48,3.67,1,1,Brighton Hove,BHA ,Watford,WAT 
+09.02.20 ,1.70 / 3.60 / 5.12,2:1,8746,1.70,3.60,5.12,2,1,Sheffield Utd,SHE ,Bournemouth,BOU 
+14.02.20 ,2.62 / 3.36 / 2.62,0:0,8747,2.62,3.36,2.62,0,0,Wolverhampton,WOL ,Leicester City,LEI 
+15.02.20 ,1.77 / 3.60 / 4.53,1:2,8748,1.77,3.60,4.53,1,2,Southampton,SOU ,Burnley,BUR 
+15.02.20 ,7.69 / 5.20 / 1.35,0:1,8749,7.69,5.20,1.35,0,1,Norwich,NOR ,Liverpool,LIV 
+16.02.20 ,4.02 / 3.74 / 1.83,2:3,8750,4.02,3.74,1.83,2,3,Aston Villa,AST ,Tottenham,TOT 
+16.02.20 ,1.43 / 4.66 / 6.64,4:0,1081,1.43,4.66,6.64,4,0,Arsenal,ARS ,Newcastle,NEW 
+17.02.20 ,1.88 / 3.62 / 3.97,0:2,8751,1.88,3.62,3.97,0,2,Chelsea,CHE ,Man United,MUN 
+19.02.20 ,1.09 / 10.28 / 22.52,2:0,8752,1.09,10.28,22.52,2,0,Man City,MCI ,West Ham,WHU 
+22.02.20 ,1.92 / 3.66 / 3.73,2:1,8753,1.92,3.66,3.73,2,1,Chelsea,CHE ,Tottenham,TOT 
+22.02.20 ,2.01 / 3.32 / 3.81,1:1,8754,2.01,3.32,3.81,1,1,Sheffield Utd,SHE ,Brighton Hove,BHA 
+22.02.20 ,2.10 / 3.12 / 3.77,1:0,8757,2.10,3.12,3.77,1,0,Crystal Palace,CRY ,Newcastle,NEW 
+22.02.20 ,1.64 / 4.03 / 4.90,2:0,8756,1.64,4.03,4.90,2,0,Southampton,SOU ,Aston Villa,AST 
+22.02.20 ,2.14 / 3.23 / 3.52,3:0,8755,2.14,3.23,3.52,3,0,Burnley,BUR ,Bournemouth,BOU 
+22.02.20 ,4.74 / 4.17 / 1.63,0:1,8758,4.74,4.17,1.63,0,1,Leicester City,LEI ,Man City,MCI 
+23.02.20 ,1.54 / 4.12 / 5.86,3:0,8760,1.54,4.12,5.86,3,0,Man United,MUN ,Watford,WAT 
+23.02.20 ,1.52 / 4.17 / 6.03,3:0,8759,1.52,4.17,6.03,3,0,Wolverhampton,WOL ,Norwich,NOR 
+23.02.20 ,1.84 / 3.72 / 3.98,3:2,8761,1.84,3.72,3.98,3,2,Arsenal,ARS ,Everton,EVE 
+24.02.20 ,1.17 / 7.24 / 14.38,3:2,8762,1.17,7.24,14.38,3,2,Liverpool,LIV ,West Ham,WHU 
+28.02.20 ,4.19 / 3.88 / 1.79,1:0,8763,4.19,3.88,1.79,1,0,Norwich,NOR ,Leicester City,LEI 
+29.02.20 ,2.00 / 3.28 / 3.96,0:1,8764,2.00,3.28,3.96,0,1,Brighton Hove,BHA ,Crystal Palace,CRY 
+29.02.20 ,2.51 / 3.09 / 2.97,0:0,8765,2.51,3.09,2.97,0,0,Newcastle,NEW ,Burnley,BUR 
+29.02.20 ,2.66 / 3.52 / 2.52,3:1,8766,2.66,3.52,2.52,3,1,West Ham,WHU ,Southampton,SOU 
+29.02.20 ,4.68 / 3.80 / 1.72,2:2,8767,4.68,3.80,1.72,2,2,Bournemouth,BOU ,Chelsea,CHE 
+29.02.20 ,6.82 / 4.72 / 1.43,3:0,8768,6.82,4.72,1.43,3,0,Watford,WAT ,Liverpool,LIV 
+01.03.20 ,2.49 / 3.33 / 2.82,1:1,8770,2.49,3.33,2.82,1,1,Everton,EVE ,Man United,MUN 
+01.03.20 ,2.24 / 3.27 / 3.28,2:3,8769,2.24,3.27,3.28,2,3,Tottenham,TOT ,Wolverhampton,WOL 
+07.03.20 ,1.20 / 6.55 / 13.55,2:1,8771,1.20,6.55,13.55,2,1,Liverpool,LIV ,Bournemouth,BOU 
+07.03.20 ,1.46 / 4.52 / 6.50,1:0,8772,1.46,4.52,6.50,1,0,Arsenal,ARS ,West Ham,WHU 
+07.03.20 ,2.52 / 3.16 / 2.91,1:0,8775,2.52,3.16,2.91,1,0,Crystal Palace,CRY ,Watford,WAT 
+07.03.20 ,1.74 / 3.73 / 4.70,0:0,6116,1.74,3.73,4.70,0,0,Wolverhampton,WOL ,Brighton Hove,BHA 
+07.03.20 ,1.62 / 4.10 / 5.10,0:1,8774,1.62,4.10,5.10,0,1,Southampton,SOU ,Newcastle,NEW 
+07.03.20 ,1.62 / 3.85 / 5.56,1:0,8773,1.62,3.85,5.56,1,0,Sheffield Utd,SHE ,Norwich,NOR 
+07.03.20 ,3.27 / 3.28 / 2.25,1:1,8776,3.27,3.28,2.25,1,1,Burnley,BUR ,Tottenham,TOT 
+08.03.20 ,1.73 / 3.86 / 4.55,4:0,8777,1.73,3.86,4.55,4,0,Chelsea,CHE ,Everton,EVE 
+08.03.20 ,5.06 / 4.19 / 1.61,2:0,8778,5.06,4.19,1.61,2,0,Man United,MUN ,Man City,MCI 
+09.03.20 ,1.38 / 5.09 / 7.97,4:0,8779,1.38,5.09,7.97,4,0,Leicester City,LEI ,Aston Villa,AST 
+17.06.20 ,2.93 / 3.40 / 2.41,0:0,8780,2.93,3.40,2.41,0,0,Aston Villa,AST ,Sheffield Utd,SHE 
+17.06.20 ,1.36 / 5.36 / 7.75,3:0,8781,1.36,5.36,7.75,3,0,Man City,MCI ,Arsenal,ARS 
+19.06.20 ,2.79 / 3.58 / 2.42,0:3,8782,2.79,3.58,2.42,0,3,Norwich,NOR ,Southampton,SOU 
+19.06.20 ,2.67 / 3.32 / 2.67,1:1,8783,2.67,3.32,2.67,1,1,Tottenham,TOT ,Man United,MUN 
+20.06.20 ,3.01 / 3.51 / 2.30,1:1,8784,3.01,3.51,2.30,1,1,Watford,WAT ,Leicester City,LEI 
+20.06.20 ,3.27 / 3.47 / 2.18,2:1,8785,3.27,3.47,2.18,2,1,Brighton Hove,BHA ,Arsenal,ARS 
+20.06.20 ,2.99 / 3.43 / 2.35,0:2,8786,2.99,3.43,2.35,0,2,West Ham,WHU ,Wolverhampton,WOL 
+20.06.20 ,2.35 / 3.31 / 3.10,0:2,8787,2.35,3.31,3.10,0,2,Bournemouth,BOU ,Crystal Palace,CRY 
+21.06.20 ,3.33 / 3.13 / 2.32,3:0,8788,3.33,3.13,2.32,3,0,Newcastle,NEW ,Sheffield Utd,SHE 
+21.06.20 ,4.37 / 4.17 / 1.72,1:2,8789,4.37,4.17,1.72,1,2,Aston Villa,AST ,Chelsea,CHE 
+21.06.20 ,4.67 / 3.90 / 1.73,0:0,8790,4.67,3.90,1.73,0,0,Everton,EVE ,Liverpool,LIV 
+22.06.20 ,1.14 / 8.39 / 19.51,5:0,8791,1.14,8.39,19.51,5,0,Man City,MCI ,Burnley,BUR 
+23.06.20 ,1.66 / 3.89 / 5.34,0:0,8792,1.66,3.89,5.34,0,0,Leicester City,LEI ,Brighton Hove,BHA 
+23.06.20 ,1.94 / 3.55 / 3.96,2:0,8793,1.94,3.55,3.96,2,0,Tottenham,TOT ,West Ham,WHU 
+24.06.20 ,3.90 / 3.65 / 1.94,0:1,8797,3.90,3.65,1.94,0,1,Norwich,NOR ,Everton,EVE 
+24.06.20 ,1.59 / 3.86 / 6.06,1:0,8794,1.59,3.86,6.06,1,0,Wolverhampton,WOL ,Bournemouth,BOU 
+24.06.20 ,2.33 / 3.32 / 3.17,1:1,8795,2.33,3.32,3.17,1,1,Newcastle,NEW ,Aston Villa,AST 
+24.06.20 ,1.43 / 4.34 / 8.46,3:0,8796,1.43,4.34,8.46,3,0,Man United,MUN ,Sheffield Utd,SHE 
+24.06.20 ,1.24 / 6.08 / 12.42,4:0,8798,1.24,6.08,12.42,4,0,Liverpool,LIV ,Crystal Palace,CRY 
+25.06.20 ,2.51 / 3.24 / 2.89,1:0,8799,2.51,3.24,2.89,1,0,Burnley,BUR ,Watford,WAT 
+25.06.20 ,2.95 / 3.58 / 2.34,0:2,8800,2.95,3.58,2.34,0,2,Southampton,SOU ,Arsenal,ARS 
+25.06.20 ,3.71 / 3.91 / 1.90,2:1,1923,3.71,3.91,1.90,2,1,Chelsea,CHE ,Man City,MCI 
+27.06.20 ,4.49 / 3.41 / 1.89,0:1,8801,4.49,3.41,1.89,0,1,Aston Villa,AST ,Wolverhampton,WOL 
+28.06.20 ,2.55 / 3.37 / 2.76,1:3,8802,2.55,3.37,2.76,1,3,Watford,WAT ,Southampton,SOU 
+29.06.20 ,2.40 / 3.17 / 3.14,0:1,8803,2.40,3.17,3.14,0,1,Crystal Palace,CRY ,Burnley,BUR 
+30.06.20 ,4.54 / 3.43 / 1.86,0:3,8804,4.54,3.43,1.86,0,3,Brighton Hove,BHA ,Man United,MUN 
+01.07.20 ,1.54 / 4.28 / 5.88,4:0,8805,1.54,4.28,5.88,4,0,Arsenal,ARS ,Norwich,NOR 
+01.07.20 ,2.20 / 3.25 / 3.46,1:4,8807,2.20,3.25,3.46,1,4,Bournemouth,BOU ,Newcastle,NEW 
+01.07.20 ,2.75 / 3.43 / 2.53,2:1,8806,2.75,3.43,2.53,2,1,Everton,EVE ,Leicester City,LEI 
+01.07.20 ,4.62 / 3.96 / 1.72,3:2,8808,4.62,3.96,1.72,3,2,West Ham,WHU ,Chelsea,CHE 
+02.07.20 ,4.09 / 3.38 / 1.97,3:1,1200,4.09,3.38,1.97,3,1,Sheffield Utd,SHE ,Tottenham,TOT 
+02.07.20 ,2.07 / 3.80 / 3.34,4:0,8809,2.07,3.80,3.34,4,0,Man City,MCI ,Liverpool,LIV 
+04.07.20 ,3.02 / 3.27 / 2.42,0:1,8810,3.02,3.27,2.42,0,1,Norwich,NOR ,Brighton Hove,BHA 
+04.07.20 ,1.50 / 4.15 / 6.97,3:0,8812,1.50,4.15,6.97,3,0,Leicester City,LEI ,Crystal Palace,CRY 
+04.07.20 ,1.27 / 5.73 / 11.81,5:2,8811,1.27,5.73,11.81,5,2,Man United,MUN ,Bournemouth,BOU 
+04.07.20 ,2.27 / 3.36 / 3.22,0:2,8813,2.27,3.36,3.22,0,2,Wolverhampton,WOL ,Arsenal,ARS 
+04.07.20 ,1.35 / 5.01 / 9.00,3:0,8814,1.35,5.01,9.00,3,0,Chelsea,CHE ,Watford,WAT 
+05.07.20 ,2.93 / 3.08 / 2.60,1:1,8815,2.93,3.08,2.60,1,1,Burnley,BUR ,Sheffield Utd,SHE 
+05.07.20 ,2.43 / 3.35 / 2.94,2:2,6103,2.43,3.35,2.94,2,2,Newcastle,NEW ,West Ham,WHU 
+05.07.20 ,1.30 / 5.76 / 9.51,2:0,8816,1.30,5.76,9.51,2,0,Liverpool,LIV ,Aston Villa,AST 
+05.07.20 ,11.25 / 5.71 / 1.27,1:0,8817,11.25,5.71,1.27,1,0,Southampton,SOU ,Man City,MCI 
+06.07.20 ,2.10 / 3.49 / 3.49,1:0,7909,2.10,3.49,3.49,1,0,Tottenham,TOT ,Everton,EVE 
+07.07.20 ,1.79 / 3.78 / 4.43,2:1,8819,1.79,3.78,4.43,2,1,Watford,WAT ,Norwich,NOR 
+07.07.20 ,5.49 / 3.87 / 1.65,2:3,8818,5.49,3.87,1.65,2,3,Crystal Palace,CRY ,Chelsea,CHE 
+07.07.20 ,2.25 / 3.54 / 3.10,1:1,8820,2.25,3.54,3.10,1,1,Arsenal,ARS ,Leicester City,LEI 
+08.07.20 ,1.11 / 8.86 / 25.30,5:0,8821,1.11,8.86,25.30,5,0,Man City,MCI ,Newcastle,NEW 
+08.07.20 ,2.07 / 3.41 / 3.64,0:1,1359,2.07,3.41,3.64,0,1,West Ham,WHU ,Burnley,BUR 
+08.07.20 ,3.79 / 3.18 / 2.12,1:0,8822,3.79,3.18,2.12,1,0,Sheffield Utd,SHE ,Wolverhampton,WOL 
+08.07.20 ,7.64 / 4.85 / 1.40,1:3,8823,7.64,4.85,1.40,1,3,Brighton Hove,BHA ,Liverpool,LIV 
+09.07.20 ,2.06 / 3.50 / 3.62,1:1,8824,2.06,3.50,3.62,1,1,Everton,EVE ,Southampton,SOU 
+09.07.20 ,5.04 / 4.00 / 1.67,0:0,8825,5.04,4.00,1.67,0,0,Bournemouth,BOU ,Tottenham,TOT 
+09.07.20 ,9.29 / 5.18 / 1.34,0:3,2262,9.29,5.18,1.34,0,3,Aston Villa,AST ,Man United,MUN 
+11.07.20 ,1.87 / 3.52 / 4.27,2:1,8827,1.87,3.52,4.27,2,1,Watford,WAT ,Newcastle,NEW 
+11.07.20 ,3.19 / 3.50 / 2.20,0:4,8826,3.19,3.50,2.20,0,4,Norwich,NOR ,West Ham,WHU 
+11.07.20 ,1.29 / 5.79 / 9.66,1:1,8828,1.29,5.79,9.66,1,1,Liverpool,LIV ,Burnley,BUR 
+11.07.20 ,6.08 / 3.97 / 1.57,3:0,8829,6.08,3.97,1.57,3,0,Sheffield Utd,SHE ,Chelsea,CHE 
+11.07.20 ,8.93 / 5.20 / 1.34,0:5,8830,8.93,5.20,1.34,0,5,Brighton Hove,BHA ,Man City,MCI 
+12.07.20 ,2.16 / 3.21 / 3.59,3:0,8831,2.16,3.21,3.59,3,0,Wolverhampton,WOL ,Everton,EVE 
+12.07.20 ,2.28 / 3.32 / 3.19,2:0,8832,2.28,3.32,3.19,2,0,Aston Villa,AST ,Crystal Palace,CRY 
+12.07.20 ,2.35 / 3.51 / 2.90,2:1,8833,2.35,3.51,2.90,2,1,Tottenham,TOT ,Arsenal,ARS 
+12.07.20 ,4.92 / 3.78 / 1.71,4:1,8834,4.92,3.78,1.71,4,1,Bournemouth,BOU ,Leicester City,LEI 
+13.07.20 ,1.30 / 5.64 / 9.88,2:2,8835,1.30,5.64,9.88,2,2,Man United,MUN ,Southampton,SOU 
+14.07.20 ,1.18 / 7.38 / 14.80,1:0,8836,1.18,7.38,14.80,1,0,Chelsea,CHE ,Norwich,NOR 
+15.07.20 ,1.11 / 9.86 / 22.06,2:1,8837,1.11,9.86,22.06,2,1,Man City,MCI ,Bournemouth,BOU 
+15.07.20 ,4.55 / 3.65 / 1.80,1:3,8838,4.55,3.65,1.80,1,3,Newcastle,NEW ,Tottenham,TOT 
+15.07.20 ,3.53 / 3.12 / 2.24,1:1,8839,3.53,3.12,2.24,1,1,Burnley,BUR ,Wolverhampton,WOL 
+15.07.20 ,3.31 / 3.67 / 2.12,2:1,8840,3.31,3.67,2.12,2,1,Arsenal,ARS ,Liverpool,LIV 
+16.07.20 ,2.02 / 3.56 / 3.70,1:1,8841,2.02,3.56,3.70,1,1,Everton,EVE ,Aston Villa,AST 
+16.07.20 ,2.01 / 3.33 / 4.01,2:0,8842,2.01,3.33,4.01,2,0,Leicester City,LEI ,Sheffield Utd,SHE 
+16.07.20 ,2.17 / 3.29 / 3.52,1:1,8843,2.17,3.29,3.52,1,1,Southampton,SOU ,Brighton Hove,BHA 
+16.07.20 ,9.84 / 4.94 / 1.34,0:2,8844,9.84,4.94,1.34,0,2,Crystal Palace,CRY ,Man United,MUN 
+17.07.20 ,2.40 / 3.03 / 3.28,3:1,8845,2.40,3.03,3.28,3,1,West Ham,WHU ,Watford,WAT 
+18.07.20 ,3.21 / 3.28 / 2.30,0:2,8846,3.21,3.28,2.30,0,2,Norwich,NOR ,Burnley,BUR 
+19.07.20 ,2.27 / 3.65 / 2.97,0:2,8847,2.27,3.65,2.97,0,2,Bournemouth,BOU ,Southampton,SOU 
+19.07.20 ,2.21 / 4.46 / 2.50,3:0,8848,2.21,4.46,2.50,3,0,Tottenham,TOT ,Leicester City,LEI 
+20.07.20 ,1.93 / 3.40 / 4.22,0:0,8850,1.93,3.40,4.22,0,0,Brighton Hove,BHA ,Newcastle,NEW 
+20.07.20 ,2.17 / 3.27 / 3.52,0:1,8849,2.17,3.27,3.52,0,1,Sheffield Utd,SHE ,Everton,EVE 
+20.07.20 ,1.49 / 4.03 / 7.65,2:0,8851,1.49,4.03,7.65,2,0,Wolverhampton,WOL ,Crystal Palace,CRY 
+21.07.20 ,8.72 / 5.59 / 1.32,0:4,8852,8.72,5.59,1.32,0,4,Watford,WAT ,Man City,MCI 
+21.07.20 ,3.28 / 3.80 / 2.08,1:0,8853,3.28,3.80,2.08,1,0,Aston Villa,AST ,Arsenal,ARS 
+22.07.20 ,1.26 / 6.03 / 10.84,1:1,8854,1.26,6.03,10.84,1,1,Man United,MUN ,West Ham,WHU 
+22.07.20 ,2.01 / 3.73 / 3.51,5:3,8855,2.01,3.73,3.51,5,3,Liverpool,LIV ,Chelsea,CHE 
+26.07.20 ,4.08 / 3.47 / 1.93,1:1,8864,4.08,3.47,1.93,1,1,Crystal Palace,CRY ,Tottenham,TOT 
+26.07.20 ,1.13 / 11.00 / 13.75,5:0,8856,1.13,11.00,13.75,5,0,Man City,MCI ,Norwich,NOR 
+26.07.20 ,7.80 / 5.17 / 1.37,1:3,8857,7.80,5.17,1.37,1,3,Newcastle,NEW ,Liverpool,LIV 
+26.07.20 ,2.11 / 3.69 / 3.30,3:2,8858,2.11,3.69,3.30,3,2,Arsenal,ARS ,Watford,WAT 
+26.07.20 ,1.86 / 3.67 / 4.20,2:0,8859,1.86,3.67,4.20,2,0,Chelsea,CHE ,Wolverhampton,WOL 
+26.07.20 ,2.40 / 3.65 / 2.80,1:3,8860,2.40,3.65,2.80,1,3,Everton,EVE ,Bournemouth,BOU 
+26.07.20 ,2.33 / 3.44 / 3.04,1:2,8861,2.33,3.44,3.04,1,2,Burnley,BUR ,Brighton Hove,BHA 
+26.07.20 ,3.12 / 3.67 / 2.20,1:1,8862,3.12,3.67,2.20,1,1,West Ham,WHU ,Aston Villa,AST 
+26.07.20 ,2.54 / 3.35 / 2.79,3:1,8863,2.54,3.35,2.79,3,1,Southampton,SOU ,Sheffield Utd,SHE 
+26.07.20 ,3.30 / 3.71 / 2.13,0:2,2291,3.30,3.71,2.13,0,2,Leicester City,LEI ,Man United,MUN 

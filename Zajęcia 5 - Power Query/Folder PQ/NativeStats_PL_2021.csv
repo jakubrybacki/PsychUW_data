@@ -1,0 +1,381 @@
+period,odds,score,matchID,odds_home,odds_draw,odds_away,score_home,score_away,home_name,home_short,away_name,away_short
+ 13.08.21 13.08. 21h00 SCHEDULED ,3.63 / 3.63 / 1.98,-:-,18482,3.63,3.63,1.98,-,-,Brentford,BRE ,Arsenal,ARS 
+ 14.08.21 14.08. 13h30 SCHEDULED ,1.61 / 4.10 / 5.23,-:-,18665,1.61,4.10,5.23,-,-,Man United,MUN ,Leeds United,LEE 
+ 14.08.21 14.08. 16h00 SCHEDULED ,3.20 / 3.09 / 2.38,-:-,18481,3.20,3.09,2.38,-,-,Burnley,BUR ,Brighton Hove,BHA 
+ 14.08.21 14.08. 16h00 SCHEDULED ,3.38 / 3.48 / 2.11,-:-,18657,3.38,3.48,2.11,-,-,Watford,WAT ,Aston Villa,AST 
+ 14.08.21 14.08. 16h00 SCHEDULED ,1.60 / 3.89 / 5.64,-:-,18478,1.60,3.89,5.64,-,-,Leicester City,LEI ,Wolverhampton,WOL 
+ 14.08.21 14.08. 16h00 SCHEDULED ,1.93 / 3.67 / 3.80,-:-,18479,1.93,3.67,3.80,-,-,Everton,EVE ,Southampton,SOU 
+ 14.08.21 14.08. 16h00 SCHEDULED ,1.28 / 5.69 / 10.14,-:-,18480,1.28,5.69,10.14,-,-,Chelsea,CHE ,Crystal Palace,CRY 
+ 14.08.21 14.08. 18h30 SCHEDULED ,8.43 / 5.61 / 1.32,-:-,18475,8.43,5.61,1.32,-,-,Norwich,NOR ,Liverpool,LIV 
+ 15.08.21 15.08. 15h00 SCHEDULED ,3.27 / 3.36 / 2.20,-:-,18476,3.27,3.36,2.20,-,-,Newcastle,NEW ,West Ham,WHU 
+ 15.08.21 15.08. 17h30 SCHEDULED ,4.82 / 3.97 / 1.67,-:-,18474,4.82,3.97,1.67,-,-,Tottenham,TOT ,Man City,MCI 
+ 21.08.21 21.08. 13h30 SCHEDULED ,/  /,-:-,18487,/  /,,,-,-,Liverpool,LIV ,Burnley,BUR 
+ 21.08.21 21.08. 16h00 SCHEDULED ,/  /,-:-,18489,/  /,,,-,-,Crystal Palace,CRY ,Brentford,BRE 
+ 21.08.21 21.08. 16h00 SCHEDULED ,/  /,-:-,18486,/  /,,,-,-,Man City,MCI ,Norwich,NOR 
+ 21.08.21 21.08. 16h00 SCHEDULED ,/  /,-:-,18488,/  /,,,-,-,Leeds United,LEE ,Everton,EVE 
+ 21.08.21 21.08. 16h00 SCHEDULED ,/  /,-:-,18491,/  /,,,-,-,Aston Villa,AST ,Newcastle,NEW 
+ 21.08.21 21.08. 18h30 SCHEDULED ,/  /,-:-,18490,/  /,,,-,-,Brighton Hove,BHA ,Watford,WAT 
+ 22.08.21 22.08. 15h00 SCHEDULED ,/  /,-:-,18485,/  /,,,-,-,Southampton,SOU ,Man United,MUN 
+ 22.08.21 22.08. 15h00 SCHEDULED ,/  /,-:-,18483,/  /,,,-,-,Wolverhampton,WOL ,Tottenham,TOT 
+ 22.08.21 22.08. 17h30 SCHEDULED ,/  /,-:-,18694,/  /,,,-,-,Arsenal,ARS ,Chelsea,CHE 
+ 23.08.21 23.08. 21h00 SCHEDULED ,/  /,-:-,18484,/  /,,,-,-,West Ham,WHU ,Leicester City,LEI 
+ 28.08.21 28.08. 13h30 SCHEDULED ,/  /,-:-,18704,/  /,,,-,-,Man City,MCI ,Arsenal,ARS 
+ 28.08.21 28.08. 16h00 SCHEDULED ,/  /,-:-,18502,/  /,,,-,-,Aston Villa,AST ,Brentford,BRE 
+ 28.08.21 28.08. 16h00 SCHEDULED ,/  /,-:-,18700,/  /,,,-,-,Norwich,NOR ,Leicester City,LEI 
+ 28.08.21 28.08. 16h00 SCHEDULED ,/  /,-:-,18702,/  /,,,-,-,Newcastle,NEW ,Southampton,SOU 
+ 28.08.21 28.08. 16h00 SCHEDULED ,/  /,-:-,18697,/  /,,,-,-,West Ham,WHU ,Crystal Palace,CRY 
+ 28.08.21 28.08. 16h00 SCHEDULED ,/  /,-:-,18710,/  /,,,-,-,Brighton Hove,BHA ,Everton,EVE 
+ 28.08.21 28.08. 18h30 SCHEDULED ,/  /,-:-,18499,/  /,,,-,-,Liverpool,LIV ,Chelsea,CHE 
+ 29.08.21 29.08. 15h00 SCHEDULED ,/  /,-:-,18709,/  /,,,-,-,Burnley,BUR ,Leeds United,LEE 
+ 29.08.21 29.08. 15h00 SCHEDULED ,/  /,-:-,18495,/  /,,,-,-,Tottenham,TOT ,Watford,WAT 
+ 29.08.21 29.08. 17h30 SCHEDULED ,/  /,-:-,18695,/  /,,,-,-,Wolverhampton,WOL ,Man United,MUN 
+ 11.09.21 11.09. 13h30 SCHEDULED ,/  /,-:-,18725,/  /,,,-,-,Crystal Palace,CRY ,Tottenham,TOT 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18718,/  /,,,-,-,Man United,MUN ,Newcastle,NEW 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18720,/  /,,,-,-,Leicester City,LEI ,Man City,MCI 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18731,/  /,,,-,-,Arsenal,ARS ,Norwich,NOR 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18729,/  /,,,-,-,Brentford,BRE ,Brighton Hove,BHA 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18714,/  /,,,-,-,Watford,WAT ,Wolverhampton,WOL 
+ 11.09.21 11.09. 16h00 SCHEDULED ,/  /,-:-,18716,/  /,,,-,-,Southampton,SOU ,West Ham,WHU 
+ 11.09.21 11.09. 18h30 SCHEDULED ,/  /,-:-,18727,/  /,,,-,-,Chelsea,CHE ,Aston Villa,AST 
+ 12.09.21 12.09. 17h30 SCHEDULED ,/  /,-:-,18722,/  /,,,-,-,Leeds United,LEE ,Liverpool,LIV 
+ 13.09.21 13.09. 21h00 SCHEDULED ,/  /,-:-,18724,/  /,,,-,-,Everton,EVE ,Burnley,BUR 
+ 17.09.21 17.09. 21h00 SCHEDULED ,/  /,-:-,18741,/  /,,,-,-,Newcastle,NEW ,Leeds United,LEE 
+ 18.09.21 18.09. 13h30 SCHEDULED ,/  /,-:-,18733,/  /,,,-,-,Wolverhampton,WOL ,Brentford,BRE 
+ 18.09.21 18.09. 16h00 SCHEDULED ,/  /,-:-,18518,/  /,,,-,-,Man City,MCI ,Southampton,SOU 
+ 18.09.21 18.09. 16h00 SCHEDULED ,/  /,-:-,18520,/  /,,,-,-,Burnley,BUR ,Arsenal,ARS 
+ 18.09.21 18.09. 16h00 SCHEDULED ,/  /,-:-,18519,/  /,,,-,-,Liverpool,LIV ,Crystal Palace,CRY 
+ 18.09.21 18.09. 16h00 SCHEDULED ,/  /,-:-,18516,/  /,,,-,-,Norwich,NOR ,Watford,WAT 
+ 18.09.21 18.09. 18h30 SCHEDULED ,/  /,-:-,18522,/  /,,,-,-,Aston Villa,AST ,Everton,EVE 
+ 19.09.21 19.09. 15h00 SCHEDULED ,/  /,-:-,18735,/  /,,,-,-,West Ham,WHU ,Man United,MUN 
+ 19.09.21 19.09. 15h00 SCHEDULED ,/  /,-:-,18748,/  /,,,-,-,Brighton Hove,BHA ,Leicester City,LEI 
+ 19.09.21 19.09. 17h30 SCHEDULED ,/  /,-:-,18515,/  /,,,-,-,Tottenham,TOT ,Chelsea,CHE 
+ 25.09.21 25.09. 13h30 SCHEDULED ,/  /,-:-,18530,/  /,,,-,-,Chelsea,CHE ,Man City,MCI 
+ 25.09.21 25.09. 16h00 SCHEDULED ,/  /,-:-,18760,/  /,,,-,-,Leeds United,LEE ,West Ham,WHU 
+ 25.09.21 25.09. 16h00 SCHEDULED ,/  /,-:-,18526,/  /,,,-,-,Leicester City,LEI ,Burnley,BUR 
+ 25.09.21 25.09. 16h00 SCHEDULED ,/  /,-:-,18525,/  /,,,-,-,Man United,MUN ,Aston Villa,AST 
+ 25.09.21 25.09. 16h00 SCHEDULED ,/  /,-:-,18523,/  /,,,-,-,Watford,WAT ,Newcastle,NEW 
+ 25.09.21 25.09. 16h00 SCHEDULED ,/  /,-:-,18762,/  /,,,-,-,Everton,EVE ,Norwich,NOR 
+ 25.09.21 25.09. 18h30 SCHEDULED ,/  /,-:-,18769,/  /,,,-,-,Brentford,BRE ,Liverpool,LIV 
+ 26.09.21 26.09. 15h00 SCHEDULED ,/  /,-:-,18754,/  /,,,-,-,Southampton,SOU ,Wolverhampton,WOL 
+ 26.09.21 26.09. 17h30 SCHEDULED ,/  /,-:-,18771,/  /,,,-,-,Arsenal,ARS ,Tottenham,TOT 
+ 27.09.21 27.09. 21h00 SCHEDULED ,/  /,-:-,18529,/  /,,,-,-,Crystal Palace,CRY ,Brighton Hove,BHA 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18539,/  /,,,-,-,Crystal Palace,CRY ,Leicester City,LEI 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18535,/  /,,,-,-,Tottenham,TOT ,Aston Villa,AST 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18779,/  /,,,-,-,Liverpool,LIV ,Man City,MCI 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18534,/  /,,,-,-,West Ham,WHU ,Brentford,BRE 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18536,/  /,,,-,-,Man United,MUN ,Everton,EVE 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18533,/  /,,,-,-,Wolverhampton,WOL ,Newcastle,NEW 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18781,/  /,,,-,-,Leeds United,LEE ,Watford,WAT 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18785,/  /,,,-,-,Chelsea,CHE ,Southampton,SOU 
+ 02.10.21 02.10. 16h00 SCHEDULED ,/  /,-:-,18788,/  /,,,-,-,Burnley,BUR ,Norwich,NOR 
+ 02.10.21 02.10. 18h30 SCHEDULED ,/  /,-:-,18789,/  /,,,-,-,Brighton Hove,BHA ,Arsenal,ARS 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18543,/  /,,,-,-,Watford,WAT ,Liverpool,LIV 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18804,/  /,,,-,-,Brentford,BRE ,Chelsea,CHE 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18802,/  /,,,-,-,Everton,EVE ,West Ham,WHU 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18801,/  /,,,-,-,Leicester City,LEI ,Man United,MUN 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18799,/  /,,,-,-,Man City,MCI ,Burnley,BUR 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18797,/  /,,,-,-,Newcastle,NEW ,Tottenham,TOT 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18795,/  /,,,-,-,Norwich,NOR ,Brighton Hove,BHA 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18793,/  /,,,-,-,Southampton,SOU ,Leeds United,LEE 
+ 16.10.21 16.10. 16h00 SCHEDULED ,/  /,-:-,18551,/  /,,,-,-,Aston Villa,AST ,Wolverhampton,WOL 
+ 18.10.21 18.10. 21h00 SCHEDULED ,/  /,-:-,18807,/  /,,,-,-,Arsenal,ARS ,Crystal Palace,CRY 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18556,/  /,,,-,-,Leeds United,LEE ,Wolverhampton,WOL 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18813,/  /,,,-,-,Man United,MUN ,Liverpool,LIV 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18826,/  /,,,-,-,Arsenal,ARS ,Aston Villa,AST 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18557,/  /,,,-,-,Everton,EVE ,Watford,WAT 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18811,/  /,,,-,-,Southampton,SOU ,Burnley,BUR 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18809,/  /,,,-,-,West Ham,WHU ,Tottenham,TOT 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18561,/  /,,,-,-,Brentford,BRE ,Leicester City,LEI 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18560,/  /,,,-,-,Brighton Hove,BHA ,Man City,MCI 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18559,/  /,,,-,-,Chelsea,CHE ,Norwich,NOR 
+ 23.10.21 23.10. 16h00 SCHEDULED ,/  /,-:-,18558,/  /,,,-,-,Crystal Palace,CRY ,Newcastle,NEW 
+ 30.10.21 30.10. 13h30 SCHEDULED ,/  /,-:-,18570,/  /,,,-,-,Leicester City,LEI ,Arsenal,ARS 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18836,/  /,,,-,-,Man City,MCI ,Crystal Palace,CRY 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18828,/  /,,,-,-,Wolverhampton,WOL ,Everton,EVE 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18838,/  /,,,-,-,Liverpool,LIV ,Brighton Hove,BHA 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18830,/  /,,,-,-,Watford,WAT ,Southampton,SOU 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18835,/  /,,,-,-,Newcastle,NEW ,Chelsea,CHE 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18833,/  /,,,-,-,Norwich,NOR ,Leeds United,LEE 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18572,/  /,,,-,-,Aston Villa,AST ,West Ham,WHU 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18571,/  /,,,-,-,Burnley,BUR ,Brentford,BRE 
+ 30.10.21 30.10. 16h00 SCHEDULED ,/  /,-:-,18831,/  /,,,-,-,Tottenham,TOT ,Man United,MUN 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18862,/  /,,,-,-,Arsenal,ARS ,Watford,WAT 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18578,/  /,,,-,-,Crystal Palace,CRY ,Wolverhampton,WOL 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18577,/  /,,,-,-,Everton,EVE ,Tottenham,TOT 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18576,/  /,,,-,-,Leeds United,LEE ,Leicester City,LEI 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18575,/  /,,,-,-,Man United,MUN ,Man City,MCI 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18574,/  /,,,-,-,Southampton,SOU ,Aston Villa,AST 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18573,/  /,,,-,-,West Ham,WHU ,Liverpool,LIV 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18858,/  /,,,-,-,Brighton Hove,BHA ,Newcastle,NEW 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18860,/  /,,,-,-,Brentford,BRE ,Norwich,NOR 
+ 06.11.21 06.11. 16h00 SCHEDULED ,/  /,-:-,18579,/  /,,,-,-,Chelsea,CHE ,Burnley,BUR 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18878,/  /,,,-,-,Burnley,BUR ,Crystal Palace,CRY 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18585,/  /,,,-,-,Tottenham,TOT ,Leeds United,LEE 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18586,/  /,,,-,-,Norwich,NOR ,Southampton,SOU 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18588,/  /,,,-,-,Man City,MCI ,Everton,EVE 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18589,/  /,,,-,-,Liverpool,LIV ,Arsenal,ARS 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18863,/  /,,,-,-,Wolverhampton,WOL ,West Ham,WHU 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18865,/  /,,,-,-,Watford,WAT ,Man United,MUN 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18870,/  /,,,-,-,Newcastle,NEW ,Brentford,BRE 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18876,/  /,,,-,-,Leicester City,LEI ,Chelsea,CHE 
+ 20.11.21 20.11. 16h00 SCHEDULED ,/  /,-:-,18880,/  /,,,-,-,Aston Villa,AST ,Brighton Hove,BHA 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18887,/  /,,,-,-,Leicester City,LEI ,Watford,WAT 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18885,/  /,,,-,-,Liverpool,LIV ,Southampton,SOU 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18882,/  /,,,-,-,Norwich,NOR ,Wolverhampton,WOL 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18883,/  /,,,-,-,Man City,MCI ,West Ham,WHU 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18600,/  /,,,-,-,Brighton Hove,BHA ,Leeds United,LEE 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18899,/  /,,,-,-,Arsenal,ARS ,Newcastle,NEW 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18601,/  /,,,-,-,Brentford,BRE ,Everton,EVE 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18893,/  /,,,-,-,Burnley,BUR ,Tottenham,TOT 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18891,/  /,,,-,-,Chelsea,CHE ,Man United,MUN 
+ 27.11.21 27.11. 16h00 SCHEDULED ,/  /,-:-,18889,/  /,,,-,-,Crystal Palace,CRY ,Aston Villa,AST 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18608,/  /,,,-,-,Aston Villa,AST ,Man City,MCI 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18900,/  /,,,-,-,Wolverhampton,WOL ,Burnley,BUR 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18606,/  /,,,-,-,Leeds United,LEE ,Crystal Palace,CRY 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18607,/  /,,,-,-,Everton,EVE ,Liverpool,LIV 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18904,/  /,,,-,-,Watford,WAT ,Chelsea,CHE 
+ 30.11.21 30.11. 20h45 SCHEDULED ,/  /,-:-,18902,/  /,,,-,-,West Ham,WHU ,Brighton Hove,BHA 
+ 30.11.21 30.11. 21h00 SCHEDULED ,/  /,-:-,18609,/  /,,,-,-,Man United,MUN ,Arsenal,ARS 
+ 01.12.21 01.12. 20h45 SCHEDULED ,/  /,-:-,18612,/  /,,,-,-,Newcastle,NEW ,Norwich,NOR 
+ 01.12.21 01.12. 20h45 SCHEDULED ,/  /,-:-,18914,/  /,,,-,-,Tottenham,TOT ,Brentford,BRE 
+ 01.12.21 01.12. 20h45 SCHEDULED ,/  /,-:-,18611,/  /,,,-,-,Southampton,SOU ,Leicester City,LEI 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18938,/  /,,,-,-,Aston Villa,AST ,Leicester City,LEI 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18936,/  /,,,-,-,Everton,EVE ,Arsenal,ARS 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18613,/  /,,,-,-,Wolverhampton,WOL ,Liverpool,LIV 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18616,/  /,,,-,-,Tottenham,TOT ,Norwich,NOR 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18620,/  /,,,-,-,Leeds United,LEE ,Brentford,BRE 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18614,/  /,,,-,-,West Ham,WHU ,Chelsea,CHE 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18617,/  /,,,-,-,Southampton,SOU ,Brighton Hove,BHA 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18615,/  /,,,-,-,Watford,WAT ,Man City,MCI 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18930,/  /,,,-,-,Newcastle,NEW ,Burnley,BUR 
+ 04.12.21 04.12. 16h00 SCHEDULED ,/  /,-:-,18932,/  /,,,-,-,Man United,MUN ,Crystal Palace,CRY 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18942,/  /,,,-,-,Man City,MCI ,Wolverhampton,WOL 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18948,/  /,,,-,-,Crystal Palace,CRY ,Everton,EVE 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18946,/  /,,,-,-,Leicester City,LEI ,Newcastle,NEW 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18941,/  /,,,-,-,Norwich,NOR ,Man United,MUN 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18628,/  /,,,-,-,Chelsea,CHE ,Leeds United,LEE 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18629,/  /,,,-,-,Burnley,BUR ,West Ham,WHU 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18630,/  /,,,-,-,Brighton Hove,BHA ,Tottenham,TOT 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18631,/  /,,,-,-,Brentford,BRE ,Watford,WAT 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18944,/  /,,,-,-,Liverpool,LIV ,Aston Villa,AST 
+ 11.12.21 11.12. 16h00 SCHEDULED ,/  /,-:-,18957,/  /,,,-,-,Arsenal,ARS ,Southampton,SOU 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18961,/  /,,,-,-,Leicester City,LEI ,Tottenham,TOT 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18965,/  /,,,-,-,Brighton Hove,BHA ,Wolverhampton,WOL 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18638,/  /,,,-,-,Arsenal,ARS ,West Ham,WHU 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18633,/  /,,,-,-,Norwich,NOR ,Aston Villa,AST 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18967,/  /,,,-,-,Brentford,BRE ,Man United,MUN 
+ 14.12.21 14.12. 20h45 SCHEDULED ,/  /,-:-,18963,/  /,,,-,-,Burnley,BUR ,Watford,WAT 
+ 14.12.21 14.12. 21h00 SCHEDULED ,/  /,-:-,18639,/  /,,,-,-,Crystal Palace,CRY ,Southampton,SOU 
+ 15.12.21 15.12. 21h00 SCHEDULED ,/  /,-:-,18640,/  /,,,-,-,Man City,MCI ,Leeds United,LEE 
+ 15.12.21 15.12. 21h00 SCHEDULED ,/  /,-:-,18641,/  /,,,-,-,Liverpool,LIV ,Newcastle,NEW 
+ 15.12.21 15.12. 21h00 SCHEDULED ,/  /,-:-,18976,/  /,,,-,-,Chelsea,CHE ,Everton,EVE 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18979,/  /,,,-,-,West Ham,WHU ,Norwich,NOR 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18985,/  /,,,-,-,Southampton,SOU ,Brentford,BRE 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18977,/  /,,,-,-,Wolverhampton,WOL ,Chelsea,CHE 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18981,/  /,,,-,-,Watford,WAT ,Crystal Palace,CRY 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18987,/  /,,,-,-,Newcastle,NEW ,Man City,MCI 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18983,/  /,,,-,-,Tottenham,TOT ,Liverpool,LIV 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18994,/  /,,,-,-,Aston Villa,AST ,Burnley,BUR 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18989,/  /,,,-,-,Man United,MUN ,Brighton Hove,BHA 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18990,/  /,,,-,-,Leeds United,LEE ,Arsenal,ARS 
+ 18.12.21 18.12. 16h00 SCHEDULED ,/  /,-:-,18992,/  /,,,-,-,Everton,EVE ,Leicester City,LEI 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,19012,/  /,,,-,-,Aston Villa,AST ,Chelsea,CHE 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,19001,/  /,,,-,-,Norwich,NOR ,Arsenal,ARS 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18658,/  /,,,-,-,Newcastle,NEW ,Man United,MUN 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18660,/  /,,,-,-,Man City,MCI ,Leicester City,LEI 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,19000,/  /,,,-,-,Tottenham,TOT ,Crystal Palace,CRY 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18662,/  /,,,-,-,Liverpool,LIV ,Leeds United,LEE 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18998,/  /,,,-,-,West Ham,WHU ,Southampton,SOU 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18664,/  /,,,-,-,Burnley,BUR ,Everton,EVE 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18666,/  /,,,-,-,Brighton Hove,BHA ,Brentford,BRE 
+ 26.12.21 26.12. 16h00 SCHEDULED ,/  /,-:-,18996,/  /,,,-,-,Wolverhampton,WOL ,Watford,WAT 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,19014,/  /,,,-,-,Crystal Palace,CRY ,Norwich,NOR 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,18685,/  /,,,-,-,Leicester City,LEI ,Liverpool,LIV 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,18680,/  /,,,-,-,Southampton,SOU ,Tottenham,TOT 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,18687,/  /,,,-,-,Leeds United,LEE ,Aston Villa,AST 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,19022,/  /,,,-,-,Arsenal,ARS ,Wolverhampton,WOL 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,18688,/  /,,,-,-,Everton,EVE ,Newcastle,NEW 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,19020,/  /,,,-,-,Brentford,BRE ,Man City,MCI 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,19018,/  /,,,-,-,Chelsea,CHE ,Brighton Hove,BHA 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,19016,/  /,,,-,-,Watford,WAT ,West Ham,WHU 
+ 28.12.21 28.12. 16h00 SCHEDULED ,/  /,-:-,18683,/  /,,,-,-,Man United,MUN ,Burnley,BUR 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,19050,/  /,,,-,-,Brentford,BRE ,Aston Villa,AST 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,18693,/  /,,,-,-,Southampton,SOU ,Newcastle,NEW 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,19047,/  /,,,-,-,Chelsea,CHE ,Liverpool,LIV 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,19043,/  /,,,-,-,Everton,EVE ,Brighton Hove,BHA 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,19042,/  /,,,-,-,Leeds United,LEE ,Burnley,BUR 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,19045,/  /,,,-,-,Crystal Palace,CRY ,West Ham,WHU 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,18711,/  /,,,-,-,Arsenal,ARS ,Man City,MCI 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,18698,/  /,,,-,-,Leicester City,LEI ,Norwich,NOR 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,18691,/  /,,,-,-,Watford,WAT ,Tottenham,TOT 
+ 01.01.22 01.01. 16h00 SCHEDULED ,/  /,-:-,18696,/  /,,,-,-,Man United,MUN ,Wolverhampton,WOL 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,19067,/  /,,,-,-,Burnley,BUR ,Leicester City,LEI 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,19070,/  /,,,-,-,Aston Villa,AST ,Man United,MUN 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,19069,/  /,,,-,-,Brighton Hove,BHA ,Crystal Palace,CRY 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18713,/  /,,,-,-,Wolverhampton,WOL ,Southampton,SOU 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,19057,/  /,,,-,-,Tottenham,TOT ,Arsenal,ARS 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18723,/  /,,,-,-,Man City,MCI ,Chelsea,CHE 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18721,/  /,,,-,-,Newcastle,NEW ,Watford,WAT 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18719,/  /,,,-,-,Norwich,NOR ,Everton,EVE 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18726,/  /,,,-,-,Liverpool,LIV ,Brentford,BRE 
+ 15.01.22 15.01. 16h00 SCHEDULED ,/  /,-:-,18715,/  /,,,-,-,West Ham,WHU ,Leeds United,LEE 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18746,/  /,,,-,-,Crystal Palace,CRY ,Liverpool,LIV 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18745,/  /,,,-,-,Everton,EVE ,Aston Villa,AST 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18743,/  /,,,-,-,Leeds United,LEE ,Newcastle,NEW 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18740,/  /,,,-,-,Leicester City,LEI ,Brighton Hove,BHA 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18739,/  /,,,-,-,Man United,MUN ,West Ham,WHU 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,19072,/  /,,,-,-,Watford,WAT ,Norwich,NOR 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,19074,/  /,,,-,-,Southampton,SOU ,Man City,MCI 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18752,/  /,,,-,-,Arsenal,ARS ,Burnley,BUR 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18750,/  /,,,-,-,Brentford,BRE ,Wolverhampton,WOL 
+ 22.01.22 22.01. 16h00 SCHEDULED ,/  /,-:-,18749,/  /,,,-,-,Chelsea,CHE ,Tottenham,TOT 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18755,/  /,,,-,-,Wolverhampton,WOL ,Arsenal,ARS 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18765,/  /,,,-,-,Aston Villa,AST ,Leeds United,LEE 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18763,/  /,,,-,-,Brighton Hove,BHA ,Chelsea,CHE 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18761,/  /,,,-,-,Burnley,BUR ,Man United,MUN 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18759,/  /,,,-,-,Norwich,NOR ,Crystal Palace,CRY 
+ 08.02.22 08.02. 20h45 SCHEDULED ,/  /,-:-,18757,/  /,,,-,-,West Ham,WHU ,Watford,WAT 
+ 09.02.22 09.02. 20h45 SCHEDULED ,/  /,-:-,18768,/  /,,,-,-,Newcastle,NEW ,Everton,EVE 
+ 09.02.22 09.02. 20h45 SCHEDULED ,/  /,-:-,18767,/  /,,,-,-,Tottenham,TOT ,Southampton,SOU 
+ 09.02.22 09.02. 21h00 SCHEDULED ,/  /,-:-,18770,/  /,,,-,-,Man City,MCI ,Brentford,BRE 
+ 09.02.22 09.02. 21h00 SCHEDULED ,/  /,-:-,18773,/  /,,,-,-,Liverpool,LIV ,Leicester City,LEI 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18790,/  /,,,-,-,Chelsea,CHE ,Arsenal,ARS 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18786,/  /,,,-,-,Leicester City,LEI ,West Ham,WHU 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18783,/  /,,,-,-,Man United,MUN ,Southampton,SOU 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18782,/  /,,,-,-,Newcastle,NEW ,Aston Villa,AST 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18780,/  /,,,-,-,Norwich,NOR ,Man City,MCI 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18778,/  /,,,-,-,Tottenham,TOT ,Wolverhampton,WOL 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18775,/  /,,,-,-,Watford,WAT ,Brighton Hove,BHA 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18794,/  /,,,-,-,Brentford,BRE ,Crystal Palace,CRY 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18792,/  /,,,-,-,Burnley,BUR ,Liverpool,LIV 
+ 12.02.22 12.02. 16h00 SCHEDULED ,/  /,-:-,18787,/  /,,,-,-,Everton,EVE ,Leeds United,LEE 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18812,/  /,,,-,-,Brighton Hove,BHA ,Burnley,BUR 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18808,/  /,,,-,-,Leeds United,LEE ,Man United,MUN 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18805,/  /,,,-,-,Liverpool,LIV ,Norwich,NOR 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18803,/  /,,,-,-,Man City,MCI ,Tottenham,TOT 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18800,/  /,,,-,-,Southampton,SOU ,Everton,EVE 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18798,/  /,,,-,-,West Ham,WHU ,Newcastle,NEW 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18796,/  /,,,-,-,Wolverhampton,WOL ,Leicester City,LEI 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18816,/  /,,,-,-,Arsenal,ARS ,Brentford,BRE 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18814,/  /,,,-,-,Aston Villa,AST ,Watford,WAT 
+ 19.02.22 19.02. 16h00 SCHEDULED ,/  /,-:-,18810,/  /,,,-,-,Crystal Palace,CRY ,Chelsea,CHE 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18827,/  /,,,-,-,Everton,EVE ,Man City,MCI 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18818,/  /,,,-,-,West Ham,WHU ,Wolverhampton,WOL 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18820,/  /,,,-,-,Southampton,SOU ,Norwich,NOR 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18822,/  /,,,-,-,Man United,MUN ,Watford,WAT 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18825,/  /,,,-,-,Leeds United,LEE ,Tottenham,TOT 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18829,/  /,,,-,-,Crystal Palace,CRY ,Burnley,BUR 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18832,/  /,,,-,-,Chelsea,CHE ,Leicester City,LEI 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18834,/  /,,,-,-,Brighton Hove,BHA ,Aston Villa,AST 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18837,/  /,,,-,-,Brentford,BRE ,Newcastle,NEW 
+ 26.02.22 26.02. 16h00 SCHEDULED ,/  /,-:-,18839,/  /,,,-,-,Arsenal,ARS ,Liverpool,LIV 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18845,/  /,,,-,-,Tottenham,TOT ,Everton,EVE 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18843,/  /,,,-,-,Watford,WAT ,Arsenal,ARS 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18841,/  /,,,-,-,Wolverhampton,WOL ,Crystal Palace,CRY 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18859,/  /,,,-,-,Burnley,BUR ,Chelsea,CHE 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18861,/  /,,,-,-,Aston Villa,AST ,Southampton,SOU 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18856,/  /,,,-,-,Leicester City,LEI ,Leeds United,LEE 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18854,/  /,,,-,-,Liverpool,LIV ,West Ham,WHU 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18851,/  /,,,-,-,Man City,MCI ,Man United,MUN 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18850,/  /,,,-,-,Newcastle,NEW ,Brighton Hove,BHA 
+ 05.03.22 05.03. 16h00 SCHEDULED ,/  /,-:-,18847,/  /,,,-,-,Norwich,NOR ,Brentford,BRE 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18879,/  /,,,-,-,Brighton Hove,BHA ,Liverpool,LIV 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18881,/  /,,,-,-,Brentford,BRE ,Burnley,BUR 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18884,/  /,,,-,-,Arsenal,ARS ,Leicester City,LEI 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18864,/  /,,,-,-,West Ham,WHU ,Aston Villa,AST 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18866,/  /,,,-,-,Southampton,SOU ,Watford,WAT 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18868,/  /,,,-,-,Man United,MUN ,Tottenham,TOT 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18871,/  /,,,-,-,Leeds United,LEE ,Norwich,NOR 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18873,/  /,,,-,-,Everton,EVE ,Wolverhampton,WOL 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18875,/  /,,,-,-,Crystal Palace,CRY ,Man City,MCI 
+ 12.03.22 12.03. 16h00 SCHEDULED ,/  /,-:-,18877,/  /,,,-,-,Chelsea,CHE ,Newcastle,NEW 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18886,/  /,,,-,-,Wolverhampton,WOL ,Leeds United,LEE 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18894,/  /,,,-,-,Newcastle,NEW ,Crystal Palace,CRY 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18896,/  /,,,-,-,Man City,MCI ,Brighton Hove,BHA 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18898,/  /,,,-,-,Liverpool,LIV ,Man United,MUN 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18903,/  /,,,-,-,Burnley,BUR ,Southampton,SOU 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18905,/  /,,,-,-,Aston Villa,AST ,Arsenal,ARS 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18901,/  /,,,-,-,Leicester City,LEI ,Brentford,BRE 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18888,/  /,,,-,-,Watford,WAT ,Everton,EVE 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18890,/  /,,,-,-,Tottenham,TOT ,West Ham,WHU 
+ 19.03.22 19.03. 16h00 SCHEDULED ,/  /,-:-,18892,/  /,,,-,-,Norwich,NOR ,Chelsea,CHE 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18925,/  /,,,-,-,Wolverhampton,WOL ,Aston Villa,AST 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18917,/  /,,,-,-,Liverpool,LIV ,Watford,WAT 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18919,/  /,,,-,-,Man United,MUN ,Leicester City,LEI 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18916,/  /,,,-,-,Leeds United,LEE ,Southampton,SOU 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18909,/  /,,,-,-,Burnley,BUR ,Man City,MCI 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18913,/  /,,,-,-,Crystal Palace,CRY ,Arsenal,ARS 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18921,/  /,,,-,-,Tottenham,TOT ,Newcastle,NEW 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18911,/  /,,,-,-,Chelsea,CHE ,Brentford,BRE 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18907,/  /,,,-,-,Brighton Hove,BHA ,Norwich,NOR 
+ 02.04.22 02.04. 16h00 SCHEDULED ,/  /,-:-,18923,/  /,,,-,-,West Ham,WHU ,Everton,EVE 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18935,/  /,,,-,-,Leicester City,LEI ,Crystal Palace,CRY 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18933,/  /,,,-,-,Everton,EVE ,Man United,MUN 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18937,/  /,,,-,-,Man City,MCI ,Liverpool,LIV 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18931,/  /,,,-,-,Brentford,BRE ,West Ham,WHU 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18939,/  /,,,-,-,Newcastle,NEW ,Wolverhampton,WOL 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18940,/  /,,,-,-,Norwich,NOR ,Burnley,BUR 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18929,/  /,,,-,-,Aston Villa,AST ,Tottenham,TOT 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18927,/  /,,,-,-,Arsenal,ARS ,Brighton Hove,BHA 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18943,/  /,,,-,-,Southampton,SOU ,Chelsea,CHE 
+ 09.04.22 09.04. 16h00 SCHEDULED ,/  /,-:-,18945,/  /,,,-,-,Watford,WAT ,Leeds United,LEE 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18960,/  /,,,-,-,Tottenham,TOT ,Brighton Hove,BHA 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18962,/  /,,,-,-,Watford,WAT ,Brentford,BRE 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18964,/  /,,,-,-,West Ham,WHU ,Burnley,BUR 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18947,/  /,,,-,-,Aston Villa,AST ,Liverpool,LIV 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18966,/  /,,,-,-,Wolverhampton,WOL ,Man City,MCI 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18953,/  /,,,-,-,Man United,MUN ,Norwich,NOR 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18949,/  /,,,-,-,Everton,EVE ,Crystal Palace,CRY 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18952,/  /,,,-,-,Leeds United,LEE ,Chelsea,CHE 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18956,/  /,,,-,-,Newcastle,NEW ,Leicester City,LEI 
+ 16.04.22 16.04. 16h00 SCHEDULED ,/  /,-:-,18958,/  /,,,-,-,Southampton,SOU ,Arsenal,ARS 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18970,/  /,,,-,-,Brentford,BRE ,Tottenham,TOT 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18988,/  /,,,-,-,Norwich,NOR ,Newcastle,NEW 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18986,/  /,,,-,-,Man City,MCI ,Watford,WAT 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18984,/  /,,,-,-,Liverpool,LIV ,Everton,EVE 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18982,/  /,,,-,-,Leicester City,LEI ,Aston Villa,AST 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18980,/  /,,,-,-,Crystal Palace,CRY ,Leeds United,LEE 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18978,/  /,,,-,-,Chelsea,CHE ,West Ham,WHU 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18975,/  /,,,-,-,Burnley,BUR ,Wolverhampton,WOL 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18973,/  /,,,-,-,Brighton Hove,BHA ,Southampton,SOU 
+ 23.04.22 23.04. 16h00 SCHEDULED ,/  /,-:-,18968,/  /,,,-,-,Arsenal,ARS ,Man United,MUN 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,18999,/  /,,,-,-,Newcastle,NEW ,Liverpool,LIV 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,19002,/  /,,,-,-,Southampton,SOU ,Crystal Palace,CRY 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,19005,/  /,,,-,-,Tottenham,TOT ,Leicester City,LEI 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,19007,/  /,,,-,-,Watford,WAT ,Burnley,BUR 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,18995,/  /,,,-,-,Leeds United,LEE ,Man City,MCI 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,18993,/  /,,,-,-,Everton,EVE ,Chelsea,CHE 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,19009,/  /,,,-,-,West Ham,WHU ,Arsenal,ARS 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,19010,/  /,,,-,-,Wolverhampton,WOL ,Brighton Hove,BHA 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,18991,/  /,,,-,-,Aston Villa,AST ,Norwich,NOR 
+ 30.04.22 30.04. 16h00 SCHEDULED ,/  /,-:-,18997,/  /,,,-,-,Man United,MUN ,Brentford,BRE 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19019,/  /,,,-,-,Burnley,BUR ,Aston Villa,AST 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19021,/  /,,,-,-,Chelsea,CHE ,Wolverhampton,WOL 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19023,/  /,,,-,-,Crystal Palace,CRY ,Watford,WAT 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19025,/  /,,,-,-,Leicester City,LEI ,Everton,EVE 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19028,/  /,,,-,-,Liverpool,LIV ,Tottenham,TOT 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19030,/  /,,,-,-,Man City,MCI ,Newcastle,NEW 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19032,/  /,,,-,-,Norwich,NOR ,West Ham,WHU 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19013,/  /,,,-,-,Arsenal,ARS ,Leeds United,LEE 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19015,/  /,,,-,-,Brentford,BRE ,Southampton,SOU 
+ 07.05.22 07.05. 16h00 SCHEDULED ,/  /,-:-,19017,/  /,,,-,-,Brighton Hove,BHA ,Man United,MUN 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19048,/  /,,,-,-,Watford,WAT ,Leicester City,LEI 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19049,/  /,,,-,-,West Ham,WHU ,Man City,MCI 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19041,/  /,,,-,-,Newcastle,NEW ,Arsenal,ARS 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19051,/  /,,,-,-,Wolverhampton,WOL ,Norwich,NOR 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19039,/  /,,,-,-,Man United,MUN ,Chelsea,CHE 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19037,/  /,,,-,-,Leeds United,LEE ,Brighton Hove,BHA 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19035,/  /,,,-,-,Everton,EVE ,Brentford,BRE 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19033,/  /,,,-,-,Aston Villa,AST ,Crystal Palace,CRY 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19046,/  /,,,-,-,Tottenham,TOT ,Burnley,BUR 
+ 15.05.22 15.05. 16h00 SCHEDULED ,/  /,-:-,19044,/  /,,,-,-,Southampton,SOU ,Liverpool,LIV 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19064,/  /,,,-,-,Chelsea,CHE ,Watford,WAT 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19066,/  /,,,-,-,Burnley,BUR ,Newcastle,NEW 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19071,/  /,,,-,-,Brentford,BRE ,Leeds United,LEE 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19068,/  /,,,-,-,Brighton Hove,BHA ,West Ham,WHU 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19053,/  /,,,-,-,Norwich,NOR ,Tottenham,TOT 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19055,/  /,,,-,-,Man City,MCI ,Aston Villa,AST 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19073,/  /,,,-,-,Arsenal,ARS ,Everton,EVE 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19058,/  /,,,-,-,Liverpool,LIV ,Wolverhampton,WOL 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19060,/  /,,,-,-,Leicester City,LEI ,Southampton,SOU 
+ 22.05.22 22.05. 17h00 SCHEDULED ,/  /,-:-,19062,/  /,,,-,-,Crystal Palace,CRY ,Man United,MUN 
